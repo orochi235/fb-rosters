@@ -1,0 +1,11 @@
+{
+  "name": "fb94",
+  "version": "1.0.0",
+  "description": "Sample names based on the classical corpus of rosters from Fighting Baseball 1994 for SFC/SNES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

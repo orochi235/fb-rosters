@@ -1,15 +1,15 @@
-# fb94
+# fb-rosters
 
 Sample names for test fixtures, seed data, and mock rosters — drawn from, objectively, the best corpus in history: the venerable mid-90's classic *Fighting Baseball* for Super Famicom.
 
 Its 700 player names were invented by someone working from an imperfect sense of what American baseball players are called, along with 1994 rosters from several American professional sports leagues.
 
 ```
-npm install fb94
+npm install fb-rosters
 ```
 
 ```js
-import { generate } from 'fb94';
+import { generate } from 'fb-rosters';
 
 generate();   // ['Mike Truk']
 generate(3);  // ['Bobson Dugnutt', 'Sleve McDichael', 'Rey McSriff']
@@ -34,17 +34,17 @@ The full corpus in roster order, if you'd rather do your own picking.
 Every published file is on jsDelivr, with CORS enabled, so the corpus doubles as a static endpoint:
 
 ```
-https://cdn.jsdelivr.net/npm/fb94/names.json   {"count": 700, "names": [...]}
-https://cdn.jsdelivr.net/npm/fb94/names.txt    newline-delimited
+https://cdn.jsdelivr.net/npm/fb-rosters/names.json   {"count": 700, "names": [...]}
+https://cdn.jsdelivr.net/npm/fb-rosters/names.txt    newline-delimited
 ```
 
 The module itself imports directly in browsers and Deno:
 
 ```js
-import { generate } from 'https://cdn.jsdelivr.net/npm/fb94/index.js';
+import { generate } from 'https://cdn.jsdelivr.net/npm/fb-rosters/index.js';
 ```
 
-Pin a version in the path (`fb94@1.0.0`) if you need the bytes to never change.
+Pin a version in the path (`fb-rosters@1.0.0`) if you need the bytes to never change.
 
 ## Corpus
 

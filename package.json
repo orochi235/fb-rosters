@@ -2,10 +2,37 @@
   "name": "fb94",
   "version": "1.0.0",
   "description": "Sample names based on the classical corpus of rosters from Fighting Baseball 1994 for SFC/SNES",
+  "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
   },
-  "author": "",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "names.js",
+    "names.json",
+    "names.txt"
+  ],
+  "keywords": [
+    "names",
+    "baseball",
+    "test-data",
+    "fixtures"
+  ],
+  "scripts": {
+    "build:data": "node scripts/build-data.js",
+    "prepublishOnly": "npm run build:data && npm test",
+    "test": "node --test"
+  },
+  "author": "orochi235",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orochi235/fb-rosters.git"
+  },
   "license": "ISC"
 }

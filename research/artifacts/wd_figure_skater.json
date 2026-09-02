@@ -1,0 +1,19 @@
+{
+  "head" : {
+    "vars" : [ "name", "sitelinks" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "name" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marina Kaljurand"
+      }
+    } ]
+  }
+}

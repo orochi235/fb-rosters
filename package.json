@@ -1,7 +1,7 @@
 {
   "name": "fb-rosters",
-  "version": "1.0.0",
-  "description": "Sample names based on the classical corpus of rosters from Fighting Baseball 1994 for SFC/SNES",
+  "version": "1.1.0",
+  "description": "Sample names from the 1994 Fighting Baseball rosters, plus a companion roster of early-90s celebrities built the same way",
   "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
@@ -16,13 +16,18 @@
     "index.d.ts",
     "names.js",
     "names.json",
-    "names.txt"
+    "names.txt",
+    "names-celebrities.js",
+    "names-celebrities.json",
+    "names-celebrities.txt"
   ],
   "keywords": [
     "names",
     "baseball",
     "test-data",
-    "fixtures"
+    "fixtures",
+    "mock-data",
+    "seed-data"
   ],
   "scripts": {
     "build:data": "node scripts/build-data.js",
@@ -34,5 +39,6 @@
     "type": "git",
     "url": "git+https://github.com/orochi235/fb-rosters.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "sideEffects": false
 }

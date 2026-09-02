@@ -103,7 +103,13 @@ is reproducible and the corpus is auditable rather than asserted.
 4. Assemble the source list → `sources.txt`
 5. Apply: substitution + first-name shuffle + mononym pairing
 6. Filter (below)
-7. Human review pass
+
+**There is no human review pass, deliberately.** Curating the output for laughs would
+produce a comedy list rather than a Fighting Baseball one. The source corpus was not
+curated -- `Kevin Faite` and `Brad Klark` are not jokes -- and that unevenness is why
+`Bobson Dugnutt` lands when you reach it. A hand-picked reel reads as written, which
+is the one thing this cannot be. The safety and plausibility filters in stage 6 are
+automated and test-guarded; they are not what is being skipped here.
 
 **Stage 3 is a falsification test, not a formality.** If the edit-distance histogram
 spikes at 1, the deliberate-minimal-edit model holds. A broad distribution means the

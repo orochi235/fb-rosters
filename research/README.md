@@ -63,10 +63,21 @@ Two systematic biases, both worth knowing before raising that cap:
 - **Fame arrives late in politics.** Sitelinks rank Kamala Harris first and surface
   Theresa May, von der Leyen and three post-2000 Nobel laureates. Those categories
   are dropped and the hand list supplies the era's political figures.
-- **Women athletes fall below the threshold entirely** — the sweep returned 11
-  basketball players, 8 footballers, 1 figure skater and 0 gymnasts, because
-  women's sport is thin across language Wikipedias. Sport comes from the hand list,
-  which is also where most of the corpus's international crunch comes from.
+- **The sweep barely returns women athletes, but mostly through its own faults.**
+  An earlier version of this file blamed thin coverage of women's sport across
+  language Wikipedias. Checking that: widening the birth window to 1930-1977 takes
+  tennis from 45 to 87, so the 1935-1968 cutoff was excluding the athletes who
+  peaked in 1994; and the figure-skater and gymnast QIDs are wrong, returning
+  badminton players, a politician and a boxer. Fix the queries before drawing any
+  conclusion about coverage from them.
+
+  What does survive as a coverage signal, both in-window and correctly categorized:
+  bell hooks has 61 sitelinks (rank 286) while Marcia Clark, a US household name in
+  1995, does not clear 22. Sitelinks track durable academic and canonical standing
+  better than they track what was mass-popular in a given year.
+
+  Sport comes from the hand list either way, which is where most of the corpus's
+  international crunch comes from.
 
 ### Filters
 

@@ -76,8 +76,21 @@ Union semantics: all names shuffled together, so each roster's share is proporti
 to its size. If the celebrity corpus lands short of 700 the mix tilts slightly toward
 athletes, which is honest rather than something to correct with weighting.
 
-Cost of shipping in the same tarball: ~14KB for every installer, including those who
-never opt in. Accepted.
+Cost of shipping in the same tarball: ~35KB per corpus (txt 9K + js 12.5K + json 14K)
+for every installer, including those who never opt in. Accepted deliberately.
+
+This cannot be tree-shaken: one `generate` that switches on `roster` closes over both
+arrays, so no bundler can prove either is unused. Subpath exports
+(`fb-rosters/celebrities`) would fix it and were rejected. Anyone who wants only the
+names already has a zero-install path — the per-file jsDelivr endpoints the README
+documents — so the package exists for people who want the API, and they can afford
+35KB. Do not re-propose subpath exports.
+
+Document `names-celebrities.txt` / `.json` in the README's CDN section alongside the
+existing endpoints.
+
+Add `"sideEffects": false` to `package.json` regardless; the package currently lacks
+it and it helps consumers who drop the package entirely.
 
 ## Research pipeline
 

@@ -62,3 +62,28 @@ test('the corpora are disjoint', () => {
   const overlap = NAMES.filter((n) => new Set(CELEBRITIES).has(n));
   assert.deepEqual(overlap, []);
 });
+
+test('every name is capitalized', () => {
+  for (const name of [...NAMES, ...CELEBRITIES]) {
+    for (const part of name.split(' ')) {
+      assert.match(part, /^[A-Z]/, name);
+    }
+  }
+});
+
+test('no corpus entry contains a slur or crude word', () => {
+  const TOKENS = new Set(['gook', 'jap', 'wop', 'dago', 'paki', 'spic', 'kike', 'chink',
+    'coon', 'wog', 'fag', 'dyke', 'spaz', 'negro', 'squaw', 'injun', 'sambo', 'honky',
+    'gimp', 'midget', 'cripple', 'queer', 'gyp', 'darkie', 'whitey', 'kraut', 'boner',
+    'cock', 'dick', 'tit', 'piss', 'turd', 'fart', 'anus', 'semen', 'slut', 'whore',
+    'nazi', 'rape', 'homo', 'crap', 'jizz', 'pube', 'twat', 'arse', 'ass', 'wank']);
+  const SUBSTRINGS = ['fuck', 'shit', 'cunt', 'penis', 'vagin', 'retard', 'nigg', 'faggot',
+    'tranny', 'beaner', 'raghead', 'wetback', 'molest', 'incest'];
+  for (const name of CELEBRITIES) {
+    const lower = name.toLowerCase();
+    for (const bad of SUBSTRINGS) assert.ok(!lower.includes(bad), `${name} contains ${bad}`);
+    for (const token of lower.replace(/'/g, ' ').split(' ')) {
+      assert.ok(!TOKENS.has(token) && !TOKENS.has(token.replace(/s$/, '')), name);
+    }
+  }
+});

@@ -54,17 +54,25 @@ MALE_NAMES = {p['first'].lower() for p in athletes}
 def mangle_first(f):
     m, _ = substitute(f, set())
     if not m or m.lower() in MALE_NAMES: return f    # Doris -> Boris and friends
+    if not clean(m): return f
     return m
 
-# A mangle can land on a word the source name never contained. Cheap guard; the
-# stage-7 human pass is the real backstop.
-UNFORTUNATE = ("boner","cock","dick","tit","cunt","fuck","shit","piss","slut","whore",
-               "wank","turd","fart","anus","semen","penis","vagin","nazi","rape","spic",
-               "kike","chink","wog","coon","fag","homo","retard")
+# A mangle can land on a word the source name never contained. Short entries are matched
+# as whole tokens only -- as substrings they eat real surnames (Emick, Titov, Hancock).
+# The stage-7 human pass is the real backstop.
+BAD_TOKENS = {
+ "gook","jap","wop","dago","paki","spic","kike","chink","coon","wog","fag","dyke","spaz",
+ "negro","squaw","injun","sambo","honky","gimp","midget","cripple","queer","gyp","darkie",
+ "whitey","kraut","boner","cock","dick","tit","piss","turd","fart","anus","semen","slut",
+ "whore","nazi","rape","homo","crap","jizz","pube","twat","arse","ass","wank","cum","hoe",
+}
+BAD_SUBSTRINGS = ("fuck","shit","cunt","penis","vagin","retard","nigg","faggot","tranny",
+                  "beaner","raghead","towelhead","wetback","molest","incest")
 
 def clean(word):
     w = word.lower()
-    return not any(bad in w for bad in UNFORTUNATE)
+    if any(bad in w for bad in BAD_SUBSTRINGS): return False
+    return not (w in BAD_TOKENS or w.rstrip('s') in BAD_TOKENS)
 
 def substitute(word, used):
     """One substitution, position and replacement both sampled from the fitted model."""

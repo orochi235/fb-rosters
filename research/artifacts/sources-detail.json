@@ -3660,12 +3660,6 @@
   "sitelinks": 61
  },
  {
-  "first": "bell",
-  "last": "hooks",
-  "domain": "writer",
-  "sitelinks": 61
- },
- {
   "first": "Elizabeth",
   "last": "Hurley",
   "domain": "actor",
@@ -3674,6 +3668,12 @@
  {
   "first": "Mylene",
   "last": "Farmer",
+  "domain": "actor",
+  "sitelinks": 60
+ },
+ {
+  "first": "Daryl",
+  "last": "Hannah",
   "domain": "actor",
   "sitelinks": 60
  }

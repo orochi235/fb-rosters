@@ -34,7 +34,10 @@ def usable(name):
     if len(parts) < 2: return None
     first, last = parts[0], parts[-1]
     if len(last) < 3 or len(first) < 2: return None
-    return first, last
+    # Sources style themselves (bell hooks, k.d. lang); the roster does not inherit it.
+    # Only the leading character is touched, so McEntire and O'Connor survive intact.
+    cap = lambda w: w[0].upper() + w[1:]
+    return cap(first), cap(last)
 
 rows, kept = {}, 0
 for f in sorted(glob.glob('artifacts/wd_*.json')):

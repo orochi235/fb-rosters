@@ -1,0 +1,9292 @@
+[
+ {
+  "first": "Steve",
+  "last": "Avery",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Bedrosian",
+  "league": "MLB"
+ },
+ {
+  "first": "Rafael",
+  "last": "Belliard",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Bielecki",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Blauser",
+  "league": "MLB"
+ },
+ {
+  "first": "Jarvis",
+  "last": "Brown",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Gallagher",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Glavine",
+  "league": "MLB"
+ },
+ {
+  "first": "Milt",
+  "last": "Hill",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Justice",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Kelly",
+  "league": "MLB"
+ },
+ {
+  "first": "Roberto",
+  "last": "Kelly",
+  "league": "MLB"
+ },
+ {
+  "first": "Ryan",
+  "last": "Klesko",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Lemke",
+  "league": "MLB"
+ },
+ {
+  "first": "Javy",
+  "last": "Lopez",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Maddux",
+  "league": "MLB"
+ },
+ {
+  "first": "Fred",
+  "last": "McGriff",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "McMichael",
+  "league": "MLB"
+ },
+ {
+  "first": "Kent",
+  "last": "Mercker",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Mordecai",
+  "league": "MLB"
+ },
+ {
+  "first": "Charlie",
+  "last": "O'Brien",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Oliva",
+  "league": "MLB"
+ },
+ {
+  "first": "Gregg",
+  "last": "Olson",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Pecota",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Pendleton",
+  "league": "MLB"
+ },
+ {
+  "first": "Deion",
+  "last": "Sanders",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Smoltz",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Stanton",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Tarasco",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Wohlers",
+  "league": "MLB"
+ },
+ {
+  "first": "Brad",
+  "last": "Woodall",
+  "league": "MLB"
+ },
+ {
+  "first": "Brady",
+  "last": "Anderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Harold",
+  "last": "Baines",
+  "league": "MLB"
+ },
+ {
+  "first": "Armando",
+  "last": "Benitez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Bolton",
+  "league": "MLB"
+ },
+ {
+  "first": "Damon",
+  "last": "Buford",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Devereaux",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Eichhorn",
+  "league": "MLB"
+ },
+ {
+  "first": "Sid",
+  "last": "Fernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Leo",
+  "last": "Gomez",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeffrey",
+  "last": "Hammonds",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Hoiles",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Hulett",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Klingenbeck",
+  "league": "MLB"
+ },
+ {
+  "first": "Ben",
+  "last": "McDonald",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "McLemore",
+  "league": "MLB"
+ },
+ {
+  "first": "Alan",
+  "last": "Mills",
+  "league": "MLB"
+ },
+ {
+  "first": "Jamie",
+  "last": "Moyer",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Mussina",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Oquist",
+  "league": "MLB"
+ },
+ {
+  "first": "Rafael",
+  "last": "Palmeiro",
+  "league": "MLB"
+ },
+ {
+  "first": "Brad",
+  "last": "Pennington",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Poole",
+  "league": "MLB"
+ },
+ {
+  "first": "Arthur",
+  "last": "Rhodes",
+  "league": "MLB"
+ },
+ {
+  "first": "Cal",
+  "last": "Ripken",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Sabo",
+  "league": "MLB"
+ },
+ {
+  "first": "Dwight",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Lee",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Lonnie",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Tackett",
+  "league": "MLB"
+ },
+ {
+  "first": "Jack",
+  "last": "Voigt",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Williamson",
+  "league": "MLB"
+ },
+ {
+  "first": "Cory",
+  "last": "Bailey",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Bankhead",
+  "league": "MLB"
+ },
+ {
+  "first": "Damon",
+  "last": "Berryhill",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Blosser",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Brunansky",
+  "league": "MLB"
+ },
+ {
+  "first": "Wes",
+  "last": "Chamberlain",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "Clemens",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Cooper",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Darwin",
+  "league": "MLB"
+ },
+ {
+  "first": "Andre",
+  "last": "Dawson",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Farr",
+  "league": "MLB"
+ },
+ {
+  "first": "Gar",
+  "last": "Finnvold",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Fletcher",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Fossas",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Frohwirth",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Greenwell",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Harris",
+  "league": "MLB"
+ },
+ {
+  "first": "Billy",
+  "last": "Hatcher",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Hesketh",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Howard",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Litton",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Melendez",
+  "league": "MLB"
+ },
+ {
+  "first": "Nate",
+  "last": "Minchey",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Nabholz",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Naehring",
+  "league": "MLB"
+ },
+ {
+  "first": "Otis",
+  "last": "Nixon",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Ortiz",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Quantrill",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Rodriguez",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Rowland",
+  "league": "MLB"
+ },
+ {
+  "first": "Stan",
+  "last": "Royer",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Russell",
+  "league": "MLB"
+ },
+ {
+  "first": "Ken",
+  "last": "Ryan",
+  "league": "MLB"
+ },
+ {
+  "first": "Aaron",
+  "last": "Sele",
+  "league": "MLB"
+ },
+ {
+  "first": "Lee",
+  "last": "Tinsley",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Tomberlin",
+  "league": "MLB"
+ },
+ {
+  "first": "Ricky",
+  "last": "Trlicek",
+  "league": "MLB"
+ },
+ {
+  "first": "Sergio",
+  "last": "Valdez",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Valentin",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Valle",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Van Egmond",
+  "league": "MLB"
+ },
+ {
+  "first": "Mo",
+  "last": "Vaughn",
+  "league": "MLB"
+ },
+ {
+  "first": "Frank",
+  "last": "Viola",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Wedge",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Zupcic",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Anderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Garret",
+  "last": "Anderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Butcher",
+  "league": "MLB"
+ },
+ {
+  "first": "Rod",
+  "last": "Correia",
+  "league": "MLB"
+ },
+ {
+  "first": "Chad",
+  "last": "Curtis",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Dalesandro",
+  "league": "MLB"
+ },
+ {
+  "first": "Chili",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Disarcina",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Dopson",
+  "league": "MLB"
+ },
+ {
+  "first": "Damion",
+  "last": "Easley",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Edmonds",
+  "league": "MLB"
+ },
+ {
+  "first": "Jorge",
+  "last": "Fabregas",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Farrell",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "Finley",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Grahe",
+  "league": "MLB"
+ },
+ {
+  "first": "Rex",
+  "last": "Hudler",
+  "league": "MLB"
+ },
+ {
+  "first": "Bo",
+  "last": "Jackson",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Langston",
+  "league": "MLB"
+ },
+ {
+  "first": "Craig",
+  "last": "Lefferts",
+  "league": "MLB"
+ },
+ {
+  "first": "Phil",
+  "last": "Leftwich",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Leiter",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Lewis",
+  "league": "MLB"
+ },
+ {
+  "first": "Andrew",
+  "last": "Lorraine",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Magrane",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Myers",
+  "league": "MLB"
+ },
+ {
+  "first": "Spike",
+  "last": "Owen",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Patterson",
+  "league": "MLB"
+ },
+ {
+  "first": "Ken",
+  "last": "Patterson",
+  "league": "MLB"
+ },
+ {
+  "first": "Eduardo",
+  "last": "Perez",
+  "league": "MLB"
+ },
+ {
+  "first": "Harold",
+  "last": "Reynolds",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Salmon",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Sampen",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Schwarz",
+  "league": "MLB"
+ },
+ {
+  "first": "J. T.",
+  "last": "Snow",
+  "league": "MLB"
+ },
+ {
+  "first": "Russ",
+  "last": "Springer",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Turner",
+  "league": "MLB"
+ },
+ {
+  "first": "Wilson",
+  "last": "Alvarez",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Assenmacher",
+  "league": "MLB"
+ },
+ {
+  "first": "Jason",
+  "last": "Bere",
+  "league": "MLB"
+ },
+ {
+  "first": "Dennis",
+  "last": "Cook",
+  "league": "MLB"
+ },
+ {
+  "first": "Joey",
+  "last": "Cora",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "DeLeon",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Fernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Julio",
+  "last": "Franco",
+  "league": "MLB"
+ },
+ {
+  "first": "Craig",
+  "last": "Grebeck",
+  "league": "MLB"
+ },
+ {
+  "first": "Ozzie",
+  "last": "Guillen",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Hall",
+  "league": "MLB"
+ },
+ {
+  "first": "Atlee",
+  "last": "Hammaker",
+  "league": "MLB"
+ },
+ {
+  "first": "Roberto",
+  "last": "Hernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Dann",
+  "last": "Howitt",
+  "league": "MLB"
+ },
+ {
+  "first": "Darrin",
+  "last": "Jackson",
+  "league": "MLB"
+ },
+ {
+  "first": "Dane",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Lance",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Ron",
+  "last": "Karkovice",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "LaValliere",
+  "league": "MLB"
+ },
+ {
+  "first": "Norberto",
+  "last": "Martin",
+  "league": "MLB"
+ },
+ {
+  "first": "Kirk",
+  "last": "McCaskill",
+  "league": "MLB"
+ },
+ {
+  "first": "Jack",
+  "last": "McDowell",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Melvin",
+  "league": "MLB"
+ },
+ {
+  "first": "Warren",
+  "last": "Newson",
+  "league": "MLB"
+ },
+ {
+  "first": "Dan",
+  "last": "Pasqua",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Raines",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Ruffcorn",
+  "league": "MLB"
+ },
+ {
+  "first": "Olmedo",
+  "last": "Saenz",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Sanderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Frank",
+  "last": "Thomas",
+  "league": "MLB"
+ },
+ {
+  "first": "Ron",
+  "last": "Tingley",
+  "league": "MLB"
+ },
+ {
+  "first": "Robin",
+  "last": "Ventura",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Banks",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Bautista",
+  "league": "MLB"
+ },
+ {
+  "first": "Shawn",
+  "last": "Boskie",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Buechele",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Bullinger",
+  "league": "MLB"
+ },
+ {
+  "first": "Frank",
+  "last": "Castillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "Crim",
+  "league": "MLB"
+ },
+ {
+  "first": "Shawon",
+  "last": "Dunston",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Foster",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Grace",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Guzman",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Haney",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Hernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Glenallen",
+  "last": "Hill",
+  "league": "MLB"
+ },
+ {
+  "first": "Blaise",
+  "last": "Ilsley",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Maksudian",
+  "league": "MLB"
+ },
+ {
+  "first": "Derrick",
+  "last": "May",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Morgan",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Myers",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Otto",
+  "league": "MLB"
+ },
+ {
+  "first": "Donn",
+  "last": "Pall",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Parent",
+  "league": "MLB"
+ },
+ {
+  "first": "Dan",
+  "last": "Plesac",
+  "league": "MLB"
+ },
+ {
+  "first": "Tuffy",
+  "last": "Rhodes",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Roberson",
+  "league": "MLB"
+ },
+ {
+  "first": "Rey",
+  "last": "Sanchez",
+  "league": "MLB"
+ },
+ {
+  "first": "Ryne",
+  "last": "Sandberg",
+  "league": "MLB"
+ },
+ {
+  "first": "Sammy",
+  "last": "Sosa",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Trachsel",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Veres",
+  "league": "MLB"
+ },
+ {
+  "first": "Turk",
+  "last": "Wendell",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Wilkins",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Wilson",
+  "league": "MLB"
+ },
+ {
+  "first": "Anthony",
+  "last": "Young",
+  "league": "MLB"
+ },
+ {
+  "first": "Eddie",
+  "last": "Zambrano",
+  "league": "MLB"
+ },
+ {
+  "first": "Bret",
+  "last": "Boone",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Branson",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Brantley",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Browning",
+  "league": "MLB"
+ },
+ {
+  "first": "Jacob",
+  "last": "Brumfield",
+  "league": "MLB"
+ },
+ {
+  "first": "Hector",
+  "last": "Carrasco",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "DeLucia",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Dorsett",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Fernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Fortugno",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Greene",
+  "league": "MLB"
+ },
+ {
+  "first": "Erik",
+  "last": "Hanson",
+  "league": "MLB"
+ },
+ {
+  "first": "Lenny",
+  "last": "Harris",
+  "league": "MLB"
+ },
+ {
+  "first": "Thomas",
+  "last": "Howard",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Hunter",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Jarvis",
+  "league": "MLB"
+ },
+ {
+  "first": "Barry",
+  "last": "Larkin",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "McElroy",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Mitchell",
+  "league": "MLB"
+ },
+ {
+  "first": "Hal",
+  "last": "Morris",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Oliver",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Pegues",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Pugh",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Rijo",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Roper",
+  "league": "MLB"
+ },
+ {
+  "first": "Johnny",
+  "last": "Ruffin",
+  "league": "MLB"
+ },
+ {
+  "first": "Reggie",
+  "last": "Sanders",
+  "league": "MLB"
+ },
+ {
+  "first": "Pete",
+  "last": "Schourek",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Service",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Smiley",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerry",
+  "last": "Spradlin",
+  "league": "MLB"
+ },
+ {
+  "first": "Ed",
+  "last": "Taubensee",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerome",
+  "last": "Walton",
+  "league": "MLB"
+ },
+ {
+  "first": "Sandy",
+  "last": "Alomar",
+  "league": "MLB"
+ },
+ {
+  "first": "Ruben",
+  "last": "Amaro",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Baerga",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Barnes",
+  "league": "MLB"
+ },
+ {
+  "first": "Albert",
+  "last": "Belle",
+  "league": "MLB"
+ },
+ {
+  "first": "Larry",
+  "last": "Casian",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Clark",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerry",
+  "last": "Dipoto",
+  "league": "MLB"
+ },
+ {
+  "first": "Alvaro",
+  "last": "Espinoza",
+  "league": "MLB"
+ },
+ {
+  "first": "Rene",
+  "last": "Gonzales",
+  "league": "MLB"
+ },
+ {
+  "first": "Jason",
+  "last": "Grimsley",
+  "league": "MLB"
+ },
+ {
+  "first": "Wayne",
+  "last": "Kirby",
+  "league": "MLB"
+ },
+ {
+  "first": "Jesse",
+  "last": "Levis",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Lewis",
+  "league": "MLB"
+ },
+ {
+  "first": "Derek",
+  "last": "Lilliquist",
+  "league": "MLB"
+ },
+ {
+  "first": "Kenny",
+  "last": "Lofton",
+  "league": "MLB"
+ },
+ {
+  "first": "Albie",
+  "last": "Lopez",
+  "league": "MLB"
+ },
+ {
+  "first": "Candy",
+  "last": "Maldonado",
+  "league": "MLB"
+ },
+ {
+  "first": "Dennis",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Merullo",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Mesa",
+  "league": "MLB"
+ },
+ {
+  "first": "Jack",
+  "last": "Morris",
+  "league": "MLB"
+ },
+ {
+  "first": "Eddie",
+  "last": "Murray",
+  "league": "MLB"
+ },
+ {
+  "first": "Charles",
+  "last": "Nagy",
+  "league": "MLB"
+ },
+ {
+  "first": "Chad",
+  "last": "Ogea",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Pena",
+  "league": "MLB"
+ },
+ {
+  "first": "Herbert",
+  "last": "Perry",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Plunk",
+  "league": "MLB"
+ },
+ {
+  "first": "Manny",
+  "last": "Ramirez",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Shuey",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Sorrento",
+  "league": "MLB"
+ },
+ {
+  "first": "Russ",
+  "last": "Swan",
+  "league": "MLB"
+ },
+ {
+  "first": "Julian",
+  "last": "Tavarez",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Thome",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Turner",
+  "league": "MLB"
+ },
+ {
+  "first": "Omar",
+  "last": "Vizquel",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Wertz",
+  "league": "MLB"
+ },
+ {
+  "first": "Dante",
+  "last": "Bichette",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Blair",
+  "league": "MLB"
+ },
+ {
+  "first": "Kent",
+  "last": "Bottenfield",
+  "league": "MLB"
+ },
+ {
+  "first": "Ellis",
+  "last": "Burks",
+  "league": "MLB"
+ },
+ {
+  "first": "Vinny",
+  "last": "Castilla",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Czajkowski",
+  "league": "MLB"
+ },
+ {
+  "first": "Marvin",
+  "last": "Freeman",
+  "league": "MLB"
+ },
+ {
+  "first": "Andres",
+  "last": "Galarraga",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Girardi",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Harkey",
+  "league": "MLB"
+ },
+ {
+  "first": "Charlie",
+  "last": "Hayes",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Holmes",
+  "league": "MLB"
+ },
+ {
+  "first": "Trent",
+  "last": "Hubbard",
+  "league": "MLB"
+ },
+ {
+  "first": "Howard",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Jones",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Kingery",
+  "league": "MLB"
+ },
+ {
+  "first": "Curt",
+  "last": "Leskanic",
+  "league": "MLB"
+ },
+ {
+  "first": "Nelson",
+  "last": "Liriano",
+  "league": "MLB"
+ },
+ {
+  "first": "Roberto",
+  "last": "Mejia",
+  "league": "MLB"
+ },
+ {
+  "first": "Marcus",
+  "last": "Moore",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Munoz",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Nied",
+  "league": "MLB"
+ },
+ {
+  "first": "Jayhawk",
+  "last": "Owens",
+  "league": "MLB"
+ },
+ {
+  "first": "Lance",
+  "last": "Painter",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Reed",
+  "league": "MLB"
+ },
+ {
+  "first": "Armando",
+  "last": "Reynoso",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Ritz",
+  "league": "MLB"
+ },
+ {
+  "first": "Bruce",
+  "last": "Ruffin",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Sheaffer",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Thompson",
+  "league": "MLB"
+ },
+ {
+  "first": "Ty",
+  "last": "Van Burkleo",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Vander Wal",
+  "league": "MLB"
+ },
+ {
+  "first": "Bruce",
+  "last": "Walton",
+  "league": "MLB"
+ },
+ {
+  "first": "Walt",
+  "last": "Weiss",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Young",
+  "league": "MLB"
+ },
+ {
+  "first": "Skeeter",
+  "last": "Barnes",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Bautista",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Belcher",
+  "league": "MLB"
+ },
+ {
+  "first": "Sean",
+  "last": "Bergman",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Boever",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Cadaret",
+  "league": "MLB"
+ },
+ {
+  "first": "Milt",
+  "last": "Cuyler",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "Storm",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Doherty",
+  "league": "MLB"
+ },
+ {
+  "first": "Junior",
+  "last": "Felix",
+  "league": "MLB"
+ },
+ {
+  "first": "Cecil",
+  "last": "Fielder",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Flaherty",
+  "league": "MLB"
+ },
+ {
+  "first": "Travis",
+  "last": "Fryman",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Gardiner",
+  "league": "MLB"
+ },
+ {
+  "first": "Kirk",
+  "last": "Gibson",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Gohr",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Gomez",
+  "league": "MLB"
+ },
+ {
+  "first": "Buddy",
+  "last": "Groom",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Gullickson",
+  "league": "MLB"
+ },
+ {
+  "first": "Gene",
+  "last": "Harris",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Henneman",
+  "league": "MLB"
+ },
+ {
+  "first": "Riccardo",
+  "last": "Ingram",
+  "league": "MLB"
+ },
+ {
+  "first": "Kurt",
+  "last": "Knudsen",
+  "league": "MLB"
+ },
+ {
+  "first": "Chad",
+  "last": "Kreuter",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Krueger",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Lima",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Livingstone",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Moore",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Phillips",
+  "league": "MLB"
+ },
+ {
+  "first": "Juan",
+  "last": "Samuel",
+  "league": "MLB"
+ },
+ {
+  "first": "Phil",
+  "last": "Stidham",
+  "league": "MLB"
+ },
+ {
+  "first": "Mickey",
+  "last": "Tettleton",
+  "league": "MLB"
+ },
+ {
+  "first": "Alan",
+  "last": "Trammell",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Wells",
+  "league": "MLB"
+ },
+ {
+  "first": "Lou",
+  "last": "Whitaker",
+  "league": "MLB"
+ },
+ {
+  "first": "Kurt",
+  "last": "Abbott",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Aquino",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Arias",
+  "league": "MLB"
+ },
+ {
+  "first": "Bret",
+  "last": "Barberie",
+  "league": "MLB"
+ },
+ {
+  "first": "Ryan",
+  "last": "Bowen",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerry",
+  "last": "Browne",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "Carr",
+  "league": "MLB"
+ },
+ {
+  "first": "Matias",
+  "last": "Carrillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Colbrunn",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Conine",
+  "league": "MLB"
+ },
+ {
+  "first": "Orestes",
+  "last": "Destrade",
+  "league": "MLB"
+ },
+ {
+  "first": "Mario",
+  "last": "Diaz",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Drahman",
+  "league": "MLB"
+ },
+ {
+  "first": "Carl",
+  "last": "Everett",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Fraser",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Gardner",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Hammond",
+  "league": "MLB"
+ },
+ {
+  "first": "Bryan",
+  "last": "Harvey",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeremy",
+  "last": "Hernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Charlie",
+  "last": "Hough",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Jeffcoat",
+  "league": "MLB"
+ },
+ {
+  "first": "Charles",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Johnstone",
+  "league": "MLB"
+ },
+ {
+  "first": "Richie",
+  "last": "Lewis",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Magadan",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Mathews",
+  "league": "MLB"
+ },
+ {
+  "first": "Kurt",
+  "last": "Miller",
+  "league": "MLB"
+ },
+ {
+  "first": "Russ",
+  "last": "Morman",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Mutis",
+  "league": "MLB"
+ },
+ {
+  "first": "Rob",
+  "last": "Natal",
+  "league": "MLB"
+ },
+ {
+  "first": "Robb",
+  "last": "Nen",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "O'Halloran",
+  "league": "MLB"
+ },
+ {
+  "first": "Yorkis",
+  "last": "Perez",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Rapp",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Renteria",
+  "league": "MLB"
+ },
+ {
+  "first": "Benito",
+  "last": "Santiago",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Scheid",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Sheffield",
+  "league": "MLB"
+ },
+ {
+  "first": "Jesus",
+  "last": "Tavarez",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Weathers",
+  "league": "MLB"
+ },
+ {
+  "first": "Darrell",
+  "last": "Whitmore",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Bagwell",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Bass",
+  "league": "MLB"
+ },
+ {
+  "first": "Craig",
+  "last": "Biggio",
+  "league": "MLB"
+ },
+ {
+  "first": "Sid",
+  "last": "Bream",
+  "league": "MLB"
+ },
+ {
+  "first": "Ken",
+  "last": "Caminiti",
+  "league": "MLB"
+ },
+ {
+  "first": "Andujar",
+  "last": "Cedeno",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Donnels",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Drabek",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Edens",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Eusebio",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Felder",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Finley",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Gonzalez",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Hampton",
+  "league": "MLB"
+ },
+ {
+  "first": "Pete",
+  "last": "Harnisch",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Hudek",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Jones",
+  "league": "MLB"
+ },
+ {
+  "first": "Darryl",
+  "last": "Kile",
+  "league": "MLB"
+ },
+ {
+  "first": "Orlando",
+  "last": "Miller",
+  "league": "MLB"
+ },
+ {
+  "first": "James",
+  "last": "Mouton",
+  "league": "MLB"
+ },
+ {
+  "first": "Roberto",
+  "last": "Petagine",
+  "league": "MLB"
+ },
+ {
+  "first": "Ross",
+  "last": "Powell",
+  "league": "MLB"
+ },
+ {
+  "first": "Shane",
+  "last": "Reynolds",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Servais",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Simms",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Stankiewicz",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Swindell",
+  "league": "MLB"
+ },
+ {
+  "first": "Milt",
+  "last": "Thompson",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Veres",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Mitch",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Appier",
+  "league": "MLB"
+ },
+ {
+  "first": "Stan",
+  "last": "Belinda",
+  "league": "MLB"
+ },
+ {
+  "first": "Billy",
+  "last": "Brewer",
+  "league": "MLB"
+ },
+ {
+  "first": "Hubie",
+  "last": "Brooks",
+  "league": "MLB"
+ },
+ {
+  "first": "Vince",
+  "last": "Coleman",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Cone",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "de Jesus",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Gaetti",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Gagne",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Goodwin",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Gordon",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Granger",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Gubicza",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Hamelin",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Haney",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Henderson",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Howard",
+  "league": "MLB"
+ },
+ {
+  "first": "Felix",
+  "last": "Jose",
+  "league": "MLB"
+ },
+ {
+  "first": "Wally",
+  "last": "Joyner",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Koslofski",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Lind",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Macfarlane",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Magnante",
+  "league": "MLB"
+ },
+ {
+  "first": "Brent",
+  "last": "Mayne",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "McRae",
+  "league": "MLB"
+ },
+ {
+  "first": "Rusty",
+  "last": "Meacham",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Milacki",
+  "league": "MLB"
+ },
+ {
+  "first": "Keith",
+  "last": "Miller",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Montgomery",
+  "league": "MLB"
+ },
+ {
+  "first": "Hipolito",
+  "last": "Pichardo",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Shumpert",
+  "league": "MLB"
+ },
+ {
+  "first": "Billy",
+  "last": "Ashley",
+  "league": "MLB"
+ },
+ {
+  "first": "Pedro",
+  "last": "Astacio",
+  "league": "MLB"
+ },
+ {
+  "first": "Rafael",
+  "last": "Bournigal",
+  "league": "MLB"
+ },
+ {
+  "first": "Brett",
+  "last": "Butler",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Candiotti",
+  "league": "MLB"
+ },
+ {
+  "first": "Omar",
+  "last": "Daal",
+  "league": "MLB"
+ },
+ {
+  "first": "Delino",
+  "last": "DeShields",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Dreifort",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Gott",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Gross",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Gwynn",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Hansen",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Hernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Orel",
+  "last": "Hershiser",
+  "league": "MLB"
+ },
+ {
+  "first": "Garey",
+  "last": "Ingram",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Karros",
+  "league": "MLB"
+ },
+ {
+  "first": "Ramon",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "McDowell",
+  "league": "MLB"
+ },
+ {
+  "first": "Raul",
+  "last": "Mondesi",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Offerman",
+  "league": "MLB"
+ },
+ {
+  "first": "Al",
+  "last": "Osuna",
+  "league": "MLB"
+ },
+ {
+  "first": "Chan Ho",
+  "last": "Park",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Piazza",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Prince",
+  "league": "MLB"
+ },
+ {
+  "first": "Eddie",
+  "last": "Pye",
+  "league": "MLB"
+ },
+ {
+  "first": "Henry",
+  "last": "Rodriguez",
+  "league": "MLB"
+ },
+ {
+  "first": "Rudy",
+  "last": "Seanez",
+  "league": "MLB"
+ },
+ {
+  "first": "Cory",
+  "last": "Snyder",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Treadway",
+  "league": "MLB"
+ },
+ {
+  "first": "Ismael",
+  "last": "Valdez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Wallach",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Wayne",
+  "league": "MLB"
+ },
+ {
+  "first": "Mitch",
+  "last": "Webster",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Worrell",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Aguilera",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Becker",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Campbell",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Cole",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Deshaies",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Dunn",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Erickson",
+  "league": "MLB"
+ },
+ {
+  "first": "Keith",
+  "last": "Garagozzo",
+  "league": "MLB"
+ },
+ {
+  "first": "Eddie",
+  "last": "Guardado",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Guthrie",
+  "league": "MLB"
+ },
+ {
+  "first": "Chip",
+  "last": "Hale",
+  "league": "MLB"
+ },
+ {
+  "first": "Denny",
+  "last": "Hocking",
+  "league": "MLB"
+ },
+ {
+  "first": "Kent",
+  "last": "Hrbek",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "Knoblauch",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Leius",
+  "league": "MLB"
+ },
+ {
+  "first": "Shane",
+  "last": "Mack",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Mahomes",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "McCarty",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Meares",
+  "league": "MLB"
+ },
+ {
+  "first": "Brett",
+  "last": "Merriman",
+  "league": "MLB"
+ },
+ {
+  "first": "Pedro",
+  "last": "Munoz",
+  "league": "MLB"
+ },
+ {
+  "first": "Derek",
+  "last": "Parks",
+  "league": "MLB"
+ },
+ {
+  "first": "Kirby",
+  "last": "Puckett",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Pulido",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Reboulet",
+  "league": "MLB"
+ },
+ {
+  "first": "Erik",
+  "last": "Schullstrom",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Stevens",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Tapani",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Trombley",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Walbeck",
+  "league": "MLB"
+ },
+ {
+  "first": "Carl",
+  "last": "Willis",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Winfield",
+  "league": "MLB"
+ },
+ {
+  "first": "Ricky",
+  "last": "Bones",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Bronkey",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Cirillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Diaz",
+  "league": "MLB"
+ },
+ {
+  "first": "Cal",
+  "last": "Eldred",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Fetters",
+  "league": "MLB"
+ },
+ {
+  "first": "Darryl",
+  "last": "Hamilton",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Harper",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Henry",
+  "league": "MLB"
+ },
+ {
+  "first": "Teddy",
+  "last": "Higuera",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Ignasiak",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Jaha",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Kiefer",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Listach",
+  "league": "MLB"
+ },
+ {
+  "first": "Graeme",
+  "last": "Lloyd",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Matheny",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Mercedes",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Mieske",
+  "league": "MLB"
+ },
+ {
+  "first": "Angel",
+  "last": "Miranda",
+  "league": "MLB"
+ },
+ {
+  "first": "Jaime",
+  "last": "Navarro",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Nilsson",
+  "league": "MLB"
+ },
+ {
+  "first": "Troy",
+  "last": "O'Leary",
+  "league": "MLB"
+ },
+ {
+  "first": "Jesse",
+  "last": "Orosco",
+  "league": "MLB"
+ },
+ {
+  "first": "Jody",
+  "last": "Reed",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Scanlan",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Seitzer",
+  "league": "MLB"
+ },
+ {
+  "first": "Duane",
+  "last": "Singleton",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Spiers",
+  "league": "MLB"
+ },
+ {
+  "first": "B. J.",
+  "last": "Surhoff",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Valentin",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Vaughn",
+  "league": "MLB"
+ },
+ {
+  "first": "Turner",
+  "last": "Ward",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Wegman",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Wrona",
+  "league": "MLB"
+ },
+ {
+  "first": "Moises",
+  "last": "Alou",
+  "league": "MLB"
+ },
+ {
+  "first": "Juan",
+  "last": "Bell",
+  "league": "MLB"
+ },
+ {
+  "first": "Freddie",
+  "last": "Benavides",
+  "league": "MLB"
+ },
+ {
+  "first": "Sean",
+  "last": "Berry",
+  "league": "MLB"
+ },
+ {
+  "first": "Denis",
+  "last": "Boucher",
+  "league": "MLB"
+ },
+ {
+  "first": "Wil",
+  "last": "Cordero",
+  "league": "MLB"
+ },
+ {
+  "first": "Joey",
+  "last": "Eischen",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Fassero",
+  "league": "MLB"
+ },
+ {
+  "first": "Darrin",
+  "last": "Fletcher",
+  "league": "MLB"
+ },
+ {
+  "first": "Cliff",
+  "last": "Floyd",
+  "league": "MLB"
+ },
+ {
+  "first": "Lou",
+  "last": "Frazier",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Gardner",
+  "league": "MLB"
+ },
+ {
+  "first": "Marquis",
+  "last": "Grissom",
+  "league": "MLB"
+ },
+ {
+  "first": "Heath",
+  "last": "Haynes",
+  "league": "MLB"
+ },
+ {
+  "first": "Rod",
+  "last": "Henderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Butch",
+  "last": "Henry",
+  "league": "MLB"
+ },
+ {
+  "first": "Gil",
+  "last": "Heredia",
+  "league": "MLB"
+ },
+ {
+  "first": "Ken",
+  "last": "Hill",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Lansing",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Looney",
+  "league": "MLB"
+ },
+ {
+  "first": "Pedro",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Milligan",
+  "league": "MLB"
+ },
+ {
+  "first": "Mel",
+  "last": "Rojas",
+  "league": "MLB"
+ },
+ {
+  "first": "Kirk",
+  "last": "Rueter",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Scott",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Shaw",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Spehr",
+  "league": "MLB"
+ },
+ {
+  "first": "Larry",
+  "last": "Walker",
+  "league": "MLB"
+ },
+ {
+  "first": "Lenny",
+  "last": "Webster",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Wetteland",
+  "league": "MLB"
+ },
+ {
+  "first": "Gabe",
+  "last": "White",
+  "league": "MLB"
+ },
+ {
+  "first": "Rondell",
+  "last": "White",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Abbott",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Ausanio",
+  "league": "MLB"
+ },
+ {
+  "first": "Wade",
+  "last": "Boggs",
+  "league": "MLB"
+ },
+ {
+  "first": "Daryl",
+  "last": "Boston",
+  "league": "MLB"
+ },
+ {
+  "first": "Russ",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "Robert",
+  "last": "Eenhoorn",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Elster",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Gallego",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Gibson",
+  "league": "MLB"
+ },
+ {
+  "first": "Xavier",
+  "last": "Hernandez",
+  "league": "MLB"
+ },
+ {
+  "first": "Sterling",
+  "last": "Hitchcock",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Howe",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Hutton",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Kamieniecki",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Kelly",
+  "league": "MLB"
+ },
+ {
+  "first": "Jimmy",
+  "last": "Key",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Leyritz",
+  "league": "MLB"
+ },
+ {
+  "first": "Don",
+  "last": "Mattingly",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Mulholland",
+  "league": "MLB"
+ },
+ {
+  "first": "Rob",
+  "last": "Murphy",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Nokes",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Ojeda",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "O'Neill",
+  "league": "MLB"
+ },
+ {
+  "first": "Melido",
+  "last": "Perez",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Polonia",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Reardon",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Silvestri",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Stanley",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Tartabull",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Velarde",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Wickman",
+  "league": "MLB"
+ },
+ {
+  "first": "Bernie",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Gerald",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Bogar",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Bonilla",
+  "league": "MLB"
+ },
+ {
+  "first": "Rico",
+  "last": "Brogna",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeromy",
+  "last": "Burnitz",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Cangelosi",
+  "league": "MLB"
+ },
+ {
+  "first": "Juan",
+  "last": "Castillo",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Franco",
+  "league": "MLB"
+ },
+ {
+  "first": "Dwight",
+  "last": "Gooden",
+  "league": "MLB"
+ },
+ {
+  "first": "Mauro",
+  "last": "Gozzo",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Gunderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Shawn",
+  "last": "Hare",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Hillman",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Hundley",
+  "league": "MLB"
+ },
+ {
+  "first": "Jonathan",
+  "last": "Hurst",
+  "league": "MLB"
+ },
+ {
+  "first": "Jason",
+  "last": "Jacome",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Jones",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Kent",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Lindeman",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Linton",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Maddux",
+  "league": "MLB"
+ },
+ {
+  "first": "Josias",
+  "last": "Manzanillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "Mason",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "McKnight",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "McReynolds",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Orsulak",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Parker",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Remlinger",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Rivera",
+  "league": "MLB"
+ },
+ {
+  "first": "Bret",
+  "last": "Saberhagen",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Segui",
+  "league": "MLB"
+ },
+ {
+  "first": "Frank",
+  "last": "Seminara",
+  "league": "MLB"
+ },
+ {
+  "first": "Pete",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Kelly",
+  "last": "Stinnett",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Telgheder",
+  "league": "MLB"
+ },
+ {
+  "first": "Ryan",
+  "last": "Thompson",
+  "league": "MLB"
+ },
+ {
+  "first": "Fernando",
+  "last": "Vina",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Vizcaino",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Acre",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Aldrete",
+  "league": "MLB"
+ },
+ {
+  "first": "Geronimo",
+  "last": "Berroa",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Bordick",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Bowie",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Briscoe",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Brosius",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Brumley",
+  "league": "MLB"
+ },
+ {
+  "first": "Fausto",
+  "last": "Cruz",
+  "league": "MLB"
+ },
+ {
+  "first": "Ron",
+  "last": "Darling",
+  "league": "MLB"
+ },
+ {
+  "first": "Dennis",
+  "last": "Eckersley",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Fox",
+  "league": "MLB"
+ },
+ {
+  "first": "Brent",
+  "last": "Gates",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Helfand",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Hemond",
+  "league": "MLB"
+ },
+ {
+  "first": "Rickey",
+  "last": "Henderson",
+  "league": "MLB"
+ },
+ {
+  "first": "Vince",
+  "last": "Horsman",
+  "league": "MLB"
+ },
+ {
+  "first": "Stan",
+  "last": "Javier",
+  "league": "MLB"
+ },
+ {
+  "first": "Miguel",
+  "last": "Jimenez",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Karsay",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Leiper",
+  "league": "MLB"
+ },
+ {
+  "first": "Francisco",
+  "last": "Matos",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "McGwire",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Mohler",
+  "league": "MLB"
+ },
+ {
+  "first": "Troy",
+  "last": "Neel",
+  "league": "MLB"
+ },
+ {
+  "first": "Junior",
+  "last": "Noboa",
+  "league": "MLB"
+ },
+ {
+  "first": "Ed",
+  "last": "Nunez",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Ontiveros",
+  "league": "MLB"
+ },
+ {
+  "first": "Craig",
+  "last": "Paquette",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Phoenix",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Reyes",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Righetti",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Sax",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Schaefer",
+  "league": "MLB"
+ },
+ {
+  "first": "Ruben",
+  "last": "Sierra",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "Smithberg",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Steinbach",
+  "league": "MLB"
+ },
+ {
+  "first": "Billy",
+  "last": "Taylor",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Van Poppel",
+  "league": "MLB"
+ },
+ {
+  "first": "Ed",
+  "last": "Vosberg",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Welch",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Witt",
+  "league": "MLB"
+ },
+ {
+  "first": "Ernie",
+  "last": "Young",
+  "league": "MLB"
+ },
+ {
+  "first": "Larry",
+  "last": "Andersen",
+  "league": "MLB"
+ },
+ {
+  "first": "Kim",
+  "last": "Batiste",
+  "league": "MLB"
+ },
+ {
+  "first": "Toby",
+  "last": "Borland",
+  "league": "MLB"
+ },
+ {
+  "first": "Ricky",
+  "last": "Bottalico",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Carter",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Daulton",
+  "league": "MLB"
+ },
+ {
+  "first": "Mariano",
+  "last": "Duncan",
+  "league": "MLB"
+ },
+ {
+  "first": "Lenny",
+  "last": "Dykstra",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Eisenreich",
+  "league": "MLB"
+ },
+ {
+  "first": "Tommy",
+  "last": "Greene",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Hollins",
+  "league": "MLB"
+ },
+ {
+  "first": "Pete",
+  "last": "Incaviglia",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Jackson",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Jones",
+  "league": "MLB"
+ },
+ {
+  "first": "Ricky",
+  "last": "Jordan",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Juden",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Kruk",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Lieberthal",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Longmire",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Marsh",
+  "league": "MLB"
+ },
+ {
+  "first": "Mickey",
+  "last": "Morandini",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Munoz",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Pratt",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Quinlan",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Ready",
+  "league": "MLB"
+ },
+ {
+  "first": "Ben",
+  "last": "Rivera",
+  "league": "MLB"
+ },
+ {
+  "first": "Curt",
+  "last": "Schilling",
+  "league": "MLB"
+ },
+ {
+  "first": "Heathcliff",
+  "last": "Slocumb",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Stocker",
+  "league": "MLB"
+ },
+ {
+  "first": "Fernando",
+  "last": "Valenzuela",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Wells",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "West",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Ballard",
+  "league": "MLB"
+ },
+ {
+  "first": "Jay",
+  "last": "Bell",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Clark",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Cooke",
+  "league": "MLB"
+ },
+ {
+  "first": "Midre",
+  "last": "Cummings",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Dewey",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Dyer",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Foley",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Garcia",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerry",
+  "last": "Goff",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Hope",
+  "league": "MLB"
+ },
+ {
+  "first": "Joel",
+  "last": "Johnston",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "King",
+  "league": "MLB"
+ },
+ {
+  "first": "Jon",
+  "last": "Lieber",
+  "league": "MLB"
+ },
+ {
+  "first": "Ravelo",
+  "last": "Manzanillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Al",
+  "last": "Martin",
+  "league": "MLB"
+ },
+ {
+  "first": "Lloyd",
+  "last": "McClendon",
+  "league": "MLB"
+ },
+ {
+  "first": "Orlando",
+  "last": "Merced",
+  "league": "MLB"
+ },
+ {
+  "first": "Dan",
+  "last": "Miceli",
+  "league": "MLB"
+ },
+ {
+  "first": "Blas",
+  "last": "Minor",
+  "league": "MLB"
+ },
+ {
+  "first": "Denny",
+  "last": "Neagle",
+  "league": "MLB"
+ },
+ {
+  "first": "Lance",
+  "last": "Parrish",
+  "league": "MLB"
+ },
+ {
+  "first": "Alejandro",
+  "last": "Pena",
+  "league": "MLB"
+ },
+ {
+  "first": "Will",
+  "last": "Pennyfeather",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Robertson",
+  "league": "MLB"
+ },
+ {
+  "first": "Don",
+  "last": "Slaught",
+  "league": "MLB"
+ },
+ {
+  "first": "Zane",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Tabaka",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Tomlin",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Van Slyke",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Varsho",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Wagner",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Wehner",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "White",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Womack",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Young",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Ashby",
+  "league": "MLB"
+ },
+ {
+  "first": "Brad",
+  "last": "Ausmus",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Bean",
+  "league": "MLB"
+ },
+ {
+  "first": "Derek",
+  "last": "Bell",
+  "league": "MLB"
+ },
+ {
+  "first": "Andy",
+  "last": "Benes",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Brocail",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Campbell",
+  "league": "MLB"
+ },
+ {
+  "first": "Archi",
+  "last": "Cianfrocco",
+  "league": "MLB"
+ },
+ {
+  "first": "Phil",
+  "last": "Clark",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "Donnie",
+  "last": "Elliott",
+  "league": "MLB"
+ },
+ {
+  "first": "Bryce",
+  "last": "Florie",
+  "league": "MLB"
+ },
+ {
+  "first": "Ricky",
+  "last": "Gutierrez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Gwynn",
+  "league": "MLB"
+ },
+ {
+  "first": "Joey",
+  "last": "Hamilton",
+  "league": "MLB"
+ },
+ {
+  "first": "Trevor",
+  "last": "Hoffman",
+  "league": "MLB"
+ },
+ {
+  "first": "Ray",
+  "last": "Holbert",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Hyers",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Keith",
+  "last": "Lockhart",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Lopez",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Mauser",
+  "league": "MLB"
+ },
+ {
+  "first": "Ray",
+  "last": "McDavid",
+  "league": "MLB"
+ },
+ {
+  "first": "Melvin",
+  "last": "Nieves",
+  "league": "MLB"
+ },
+ {
+  "first": "Phil",
+  "last": "Plantier",
+  "league": "MLB"
+ },
+ {
+  "first": "Bip",
+  "last": "Roberts",
+  "league": "MLB"
+ },
+ {
+  "first": "A. J.",
+  "last": "Sager",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Sanders",
+  "league": "MLB"
+ },
+ {
+  "first": "Craig",
+  "last": "Shipley",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Staton",
+  "league": "MLB"
+ },
+ {
+  "first": "Kerry",
+  "last": "Taylor",
+  "league": "MLB"
+ },
+ {
+  "first": "Wally",
+  "last": "Whitehurst",
+  "league": "MLB"
+ },
+ {
+  "first": "Eddie",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Worrell",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Amaral",
+  "league": "MLB"
+ },
+ {
+  "first": "Eric",
+  "last": "Anthony",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Ayala",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Blowers",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "Bosio",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Bragg",
+  "league": "MLB"
+ },
+ {
+  "first": "Jay",
+  "last": "Buhner",
+  "league": "MLB"
+ },
+ {
+  "first": "Jim",
+  "last": "Converse",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Cummings",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Darwin",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "Felix",
+  "last": "Fermin",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Fleming",
+  "league": "MLB"
+ },
+ {
+  "first": "George",
+  "last": "Glinatsis",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Gossage",
+  "league": "MLB"
+ },
+ {
+  "first": "Ken",
+  "last": "Griffey",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Haselman",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Hibbard",
+  "league": "MLB"
+ },
+ {
+  "first": "Reggie",
+  "last": "Jefferson",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "King",
+  "league": "MLB"
+ },
+ {
+  "first": "Torey",
+  "last": "Lovullo",
+  "league": "MLB"
+ },
+ {
+  "first": "Quinn",
+  "last": "Mack",
+  "league": "MLB"
+ },
+ {
+  "first": "Edgar",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Tino",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Keith",
+  "last": "Mitchell",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Nelson",
+  "league": "MLB"
+ },
+ {
+  "first": "Marc",
+  "last": "Newfield",
+  "league": "MLB"
+ },
+ {
+  "first": "Greg",
+  "last": "Pirkl",
+  "league": "MLB"
+ },
+ {
+  "first": "Erik",
+  "last": "Plantenberg",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Risley",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Rodriguez",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "Salkeld",
+  "league": "MLB"
+ },
+ {
+  "first": "Mackey",
+  "last": "Sasser",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Sojo",
+  "league": "MLB"
+ },
+ {
+  "first": "Dale",
+  "last": "Sveum",
+  "league": "MLB"
+ },
+ {
+  "first": "Bobby",
+  "last": "Thigpen",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Turang",
+  "league": "MLB"
+ },
+ {
+  "first": "Jerry",
+  "last": "Willard",
+  "league": "MLB"
+ },
+ {
+  "first": "Dan",
+  "last": "Wilson",
+  "league": "MLB"
+ },
+ {
+  "first": "Rod",
+  "last": "Beck",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Benjamin",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Benzinger",
+  "league": "MLB"
+ },
+ {
+  "first": "Buddy",
+  "last": "Black",
+  "league": "MLB"
+ },
+ {
+  "first": "Barry",
+  "last": "Bonds",
+  "league": "MLB"
+ },
+ {
+  "first": "Brad",
+  "last": "Brink",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Burba",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Burkett",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Carreon",
+  "league": "MLB"
+ },
+ {
+  "first": "Royce",
+  "last": "Clayton",
+  "league": "MLB"
+ },
+ {
+  "first": "Rikkert",
+  "last": "Faneyte",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Frey",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Gomez",
+  "league": "MLB"
+ },
+ {
+  "first": "Bryan",
+  "last": "Hickerson",
+  "league": "MLB"
+ },
+ {
+  "first": "Michael",
+  "last": "Jackson",
+  "league": "MLB"
+ },
+ {
+  "first": "Erik",
+  "last": "Johnson",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Leonard",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Lewis",
+  "league": "MLB"
+ },
+ {
+  "first": "Kirt",
+  "last": "Manwaring",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Martinez",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "McGee",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Menendez",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Monteleone",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Patterson",
+  "league": "MLB"
+ },
+ {
+  "first": "J. R.",
+  "last": "Phillips",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Portugal",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Reed",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Rogers",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Scarsone",
+  "league": "MLB"
+ },
+ {
+  "first": "Darryl",
+  "last": "Strawberry",
+  "league": "MLB"
+ },
+ {
+  "first": "Bill",
+  "last": "Swift",
+  "league": "MLB"
+ },
+ {
+  "first": "Robby",
+  "last": "Thompson",
+  "league": "MLB"
+ },
+ {
+  "first": "Salomon",
+  "last": "Torres",
+  "league": "MLB"
+ },
+ {
+  "first": "William",
+  "last": "VanLandingham",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Luis",
+  "last": "Alicea",
+  "league": "MLB"
+ },
+ {
+  "first": "Rene",
+  "last": "Arocha",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Buckels",
+  "league": "MLB"
+ },
+ {
+  "first": "Frank",
+  "last": "Cimorelli",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Coolbaugh",
+  "league": "MLB"
+ },
+ {
+  "first": "Rheal",
+  "last": "Cormier",
+  "league": "MLB"
+ },
+ {
+  "first": "Tripp",
+  "last": "Cromer",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Dixon",
+  "league": "MLB"
+ },
+ {
+  "first": "Bryan",
+  "last": "Eversgerd",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Frascatore",
+  "league": "MLB"
+ },
+ {
+  "first": "Bernard",
+  "last": "Gilkey",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Habyan",
+  "league": "MLB"
+ },
+ {
+  "first": "Gregg",
+  "last": "Jefferies",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Jordan",
+  "league": "MLB"
+ },
+ {
+  "first": "Ray",
+  "last": "Lankford",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Mabry",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "McGriff",
+  "league": "MLB"
+ },
+ {
+  "first": "Omar",
+  "last": "Olivares",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Oquendo",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Pagnozzi",
+  "league": "MLB"
+ },
+ {
+  "first": "Vicente",
+  "last": "Palacios",
+  "league": "MLB"
+ },
+ {
+  "first": "Erik",
+  "last": "Pappas",
+  "league": "MLB"
+ },
+ {
+  "first": "Geronimo",
+  "last": "Pena",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Perez",
+  "league": "MLB"
+ },
+ {
+  "first": "Gerald",
+  "last": "Perry",
+  "league": "MLB"
+ },
+ {
+  "first": "Rich",
+  "last": "Rodriguez",
+  "league": "MLB"
+ },
+ {
+  "first": "Ozzie",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Willie",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Sutcliffe",
+  "league": "MLB"
+ },
+ {
+  "first": "Bob",
+  "last": "Tewksbury",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Urbani",
+  "league": "MLB"
+ },
+ {
+  "first": "Allen",
+  "last": "Watson",
+  "league": "MLB"
+ },
+ {
+  "first": "Mark",
+  "last": "Whiten",
+  "league": "MLB"
+ },
+ {
+  "first": "Gerald",
+  "last": "Young",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Zeile",
+  "league": "MLB"
+ },
+ {
+  "first": "Jack",
+  "last": "Armstrong",
+  "league": "MLB"
+ },
+ {
+  "first": "Esteban",
+  "last": "Beltre",
+  "league": "MLB"
+ },
+ {
+  "first": "Brian",
+  "last": "Bohanon",
+  "league": "MLB"
+ },
+ {
+  "first": "Kevin",
+  "last": "Brown",
+  "league": "MLB"
+ },
+ {
+  "first": "Duff",
+  "last": "Brumley",
+  "league": "MLB"
+ },
+ {
+  "first": "Terry",
+  "last": "Burrows",
+  "league": "MLB"
+ },
+ {
+  "first": "Jose",
+  "last": "Canseco",
+  "league": "MLB"
+ },
+ {
+  "first": "Cris",
+  "last": "Carpenter",
+  "league": "MLB"
+ },
+ {
+  "first": "Will",
+  "last": "Clark",
+  "league": "MLB"
+ },
+ {
+  "first": "Butch",
+  "last": "Davis",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Dettmer",
+  "league": "MLB"
+ },
+ {
+  "first": "Steve",
+  "last": "Dreyer",
+  "league": "MLB"
+ },
+ {
+  "first": "Rob",
+  "last": "Ducey",
+  "league": "MLB"
+ },
+ {
+  "first": "Hector",
+  "last": "Fajardo",
+  "league": "MLB"
+ },
+ {
+  "first": "Jeff",
+  "last": "Frye",
+  "league": "MLB"
+ },
+ {
+  "first": "Juan",
+  "last": "Gonzalez",
+  "league": "MLB"
+ },
+ {
+  "first": "Rusty",
+  "last": "Greer",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Helling",
+  "league": "MLB"
+ },
+ {
+  "first": "Tom",
+  "last": "Henke",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Honeycutt",
+  "league": "MLB"
+ },
+ {
+  "first": "Jay",
+  "last": "Howell",
+  "league": "MLB"
+ },
+ {
+  "first": "David",
+  "last": "Hulse",
+  "league": "MLB"
+ },
+ {
+  "first": "Bruce",
+  "last": "Hurst",
+  "league": "MLB"
+ },
+ {
+  "first": "James",
+  "last": "Hurst",
+  "league": "MLB"
+ },
+ {
+  "first": "Chuck",
+  "last": "Jackson",
+  "league": "MLB"
+ },
+ {
+  "first": "Chris",
+  "last": "James",
+  "league": "MLB"
+ },
+ {
+  "first": "Tim",
+  "last": "Leary",
+  "league": "MLB"
+ },
+ {
+  "first": "Manuel",
+  "last": "Lee",
+  "league": "MLB"
+ },
+ {
+  "first": "Oddibe",
+  "last": "McDowell",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Oliver",
+  "league": "MLB"
+ },
+ {
+  "first": "Junior",
+  "last": "Ortiz",
+  "league": "MLB"
+ },
+ {
+  "first": "Dean",
+  "last": "Palmer",
+  "league": "MLB"
+ },
+ {
+  "first": "Roger",
+  "last": "Pavlik",
+  "league": "MLB"
+ },
+ {
+  "first": "Gary",
+  "last": "Redus",
+  "league": "MLB"
+ },
+ {
+  "first": "Rick",
+  "last": "Reed",
+  "league": "MLB"
+ },
+ {
+  "first": "Billy",
+  "last": "Ripken",
+  "league": "MLB"
+ },
+ {
+  "first": "Ivan",
+  "last": "Rodriguez",
+  "league": "MLB"
+ },
+ {
+  "first": "Kenny",
+  "last": "Rogers",
+  "league": "MLB"
+ },
+ {
+  "first": "Dan",
+  "last": "Smith",
+  "league": "MLB"
+ },
+ {
+  "first": "Doug",
+  "last": "Strange",
+  "league": "MLB"
+ },
+ {
+  "first": "Matt",
+  "last": "Whiteside",
+  "league": "MLB"
+ },
+ {
+  "first": "Roberto",
+  "last": "Alomar",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Borders",
+  "league": "MLB"
+ },
+ {
+  "first": "Scott",
+  "last": "Brow",
+  "league": "MLB"
+ },
+ {
+  "first": "Rob",
+  "last": "Butler",
+  "league": "MLB"
+ },
+ {
+  "first": "Joe",
+  "last": "Carter",
+  "league": "MLB"
+ },
+ {
+  "first": "Tony",
+  "last": "Castillo",
+  "league": "MLB"
+ },
+ {
+  "first": "Domingo",
+  "last": "Cedeno",
+  "league": "MLB"
+ },
+ {
+  "first": "Darnell",
+  "last": "Coles",
+  "league": "MLB"
+ },
+ {
+  "first": "Brad",
+  "last": "Cornett",
+  "league": "MLB"
+ },
+ {
+  "first": "Danny",
+  "last": "Cox",
+  "league": "MLB"
+ },
+ {
+  "first": "Carlos",
+  "last": "Delgado",
+  "league": "MLB"
+ },
+ {
+  "first": "Alex",
+  "last": "Gonzalez",
+  "league": "MLB"
+ },
+ {
+  "first": "Shawn",
+  "last": "Green",
+  "league": "MLB"
+ },
+ {
+  "first": "Juan",
+  "last": "Guzman",
+  "league": "MLB"
+ },
+ {
+  "first": "Darren",
+  "last": "Hall",
+  "league": "MLB"
+ },
+ {
+  "first": "Pat",
+  "last": "Hentgen",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Huff",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "Knorr",
+  "league": "MLB"
+ },
+ {
+  "first": "Al",
+  "last": "Leiter",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Molitor",
+  "league": "MLB"
+ },
+ {
+  "first": "John",
+  "last": "Olerud",
+  "league": "MLB"
+ },
+ {
+  "first": "Robert",
+  "last": "Perez",
+  "league": "MLB"
+ },
+ {
+  "first": "Dick",
+  "last": "Schofield",
+  "league": "MLB"
+ },
+ {
+  "first": "Aaron",
+  "last": "Small",
+  "league": "MLB"
+ },
+ {
+  "first": "Paul",
+  "last": "Spoljaric",
+  "league": "MLB"
+ },
+ {
+  "first": "Ed",
+  "last": "Sprague",
+  "league": "MLB"
+ },
+ {
+  "first": "Randy",
+  "last": "St. Claire",
+  "league": "MLB"
+ },
+ {
+  "first": "Dave",
+  "last": "Stewart",
+  "league": "MLB"
+ },
+ {
+  "first": "Todd",
+  "last": "Stottlemyre",
+  "league": "MLB"
+ },
+ {
+  "first": "Mike",
+  "last": "Timlin",
+  "league": "MLB"
+ },
+ {
+  "first": "Devon",
+  "last": "White",
+  "league": "MLB"
+ },
+ {
+  "first": "Woody",
+  "last": "Williams",
+  "league": "MLB"
+ },
+ {
+  "first": "Robin",
+  "last": "Bawa",
+  "league": "NHL"
+ },
+ {
+  "first": "Maxim",
+  "last": "Bets",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrik",
+  "last": "Carnback",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Corkum",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Douris",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Ewen",
+  "league": "NHL"
+ },
+ {
+  "first": "Stu",
+  "last": "Grimson",
+  "league": "NHL"
+ },
+ {
+  "first": "Steven",
+  "last": "King",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephan",
+  "last": "Lebeau",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Lilley",
+  "league": "NHL"
+ },
+ {
+  "first": "Lonnie",
+  "last": "Loach",
+  "league": "NHL"
+ },
+ {
+  "first": "Troy",
+  "last": "Loney",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Mckay",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Sacco",
+  "league": "NHL"
+ },
+ {
+  "first": "Anatoli",
+  "last": "Semenov",
+  "league": "NHL"
+ },
+ {
+  "first": "Jarrod",
+  "last": "Skalde",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Sweeney",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Thomson",
+  "league": "NHL"
+ },
+ {
+  "first": "Garry",
+  "last": "Valk",
+  "league": "NHL"
+ },
+ {
+  "first": "Shaun",
+  "last": "Van Allen",
+  "league": "NHL"
+ },
+ {
+  "first": "Terry",
+  "last": "Yake",
+  "league": "NHL"
+ },
+ {
+  "first": "Bobby",
+  "last": "Dollas",
+  "league": "NHL"
+ },
+ {
+  "first": "Anatoli",
+  "last": "Fedotov",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Ferner",
+  "league": "NHL"
+ },
+ {
+  "first": "Sean",
+  "last": "Hill",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Houlder",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Kasatonov",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Ladouceur",
+  "league": "NHL"
+ },
+ {
+  "first": "Donald",
+  "last": "Mcsween",
+  "league": "NHL"
+ },
+ {
+  "first": "Myles",
+  "last": "O'Connor",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Williams",
+  "league": "NHL"
+ },
+ {
+  "first": "Guy",
+  "last": "Hebert",
+  "league": "NHL"
+ },
+ {
+  "first": "Mikhail",
+  "last": "Shtalenkov",
+  "league": "NHL"
+ },
+ {
+  "first": "Ron",
+  "last": "Tugnutt",
+  "league": "NHL"
+ },
+ {
+  "first": "Darren",
+  "last": "Banks",
+  "league": "NHL"
+ },
+ {
+  "first": "Mariusz",
+  "last": "Czerkawski",
+  "league": "NHL"
+ },
+ {
+  "first": "Ted",
+  "last": "Donato",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Heinze",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Hughes",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Juneau",
+  "league": "NHL"
+ },
+ {
+  "first": "Fred",
+  "last": "Knipscheer",
+  "league": "NHL"
+ },
+ {
+  "first": "Dimitri",
+  "last": "Kvartalnov",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephen",
+  "last": "Leach",
+  "league": "NHL"
+ },
+ {
+  "first": "Daniel",
+  "last": "Marois",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrew",
+  "last": "Mckim",
+  "league": "NHL"
+ },
+ {
+  "first": "Jon",
+  "last": "Morris",
+  "league": "NHL"
+ },
+ {
+  "first": "Glen",
+  "last": "Murray",
+  "league": "NHL"
+ },
+ {
+  "first": "Cam",
+  "last": "Neely",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Oates",
+  "league": "NHL"
+ },
+ {
+  "first": "Grigori",
+  "last": "Panteleev",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Reid",
+  "league": "NHL"
+ },
+ {
+  "first": "Bryan",
+  "last": "Smolinski",
+  "league": "NHL"
+ },
+ {
+  "first": "Cameron",
+  "last": "Stewart",
+  "league": "NHL"
+ },
+ {
+  "first": "Jozef",
+  "last": "Stumpel",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Zholtok",
+  "league": "NHL"
+ },
+ {
+  "first": "Ray",
+  "last": "Bourque",
+  "league": "NHL"
+ },
+ {
+  "first": "Glen",
+  "last": "Featherstone",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Gruden",
+  "league": "NHL"
+ },
+ {
+  "first": "Jamie",
+  "last": "Huscroft",
+  "league": "NHL"
+ },
+ {
+  "first": "Al",
+  "last": "Iafrate",
+  "league": "NHL"
+ },
+ {
+  "first": "Gordie",
+  "last": "Roberts",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Shaw",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Stanton",
+  "league": "NHL"
+ },
+ {
+  "first": "Don",
+  "last": "Sweeney",
+  "league": "NHL"
+ },
+ {
+  "first": "Mikhail",
+  "last": "Tatarinov",
+  "league": "NHL"
+ },
+ {
+  "first": "Glen",
+  "last": "Wesley",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Wiemer",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Blue",
+  "league": "NHL"
+ },
+ {
+  "first": "Jon",
+  "last": "Casey",
+  "league": "NHL"
+ },
+ {
+  "first": "Vincent",
+  "last": "Riendeau",
+  "league": "NHL"
+ },
+ {
+  "first": "Donald",
+  "last": "Audette",
+  "league": "NHL"
+ },
+ {
+  "first": "Matthew",
+  "last": "Barnaby",
+  "league": "NHL"
+ },
+ {
+  "first": "James",
+  "last": "Black",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Dawe",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Hannan",
+  "league": "NHL"
+ },
+ {
+  "first": "Dale",
+  "last": "Hawerchuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Yuri",
+  "last": "Khmylev",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "LaFontaine",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Macdonald",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "May",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexander",
+  "last": "Mogilny",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Petrenko",
+  "league": "NHL"
+ },
+ {
+  "first": "Derek",
+  "last": "Plante",
+  "league": "NHL"
+ },
+ {
+  "first": "Wayne",
+  "last": "Presley",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Ray",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Simon",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Simpson",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Sweeney",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Thomas",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Wood",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Astley",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Bodger",
+  "league": "NHL"
+ },
+ {
+  "first": "Philippe",
+  "last": "Boucher",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Carney",
+  "league": "NHL"
+ },
+ {
+  "first": "Gord",
+  "last": "Donnelly",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Moller",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Muni",
+  "league": "NHL"
+ },
+ {
+  "first": "Richard",
+  "last": "Smehlik",
+  "league": "NHL"
+ },
+ {
+  "first": "Ken",
+  "last": "Sutton",
+  "league": "NHL"
+ },
+ {
+  "first": "Petr",
+  "last": "Svoboda",
+  "league": "NHL"
+ },
+ {
+  "first": "Denis",
+  "last": "Tsygurov",
+  "league": "NHL"
+ },
+ {
+  "first": "Grant",
+  "last": "Fuhr",
+  "league": "NHL"
+ },
+ {
+  "first": "Dominik",
+  "last": "Hasek",
+  "league": "NHL"
+ },
+ {
+  "first": "Ted",
+  "last": "Drury",
+  "league": "NHL"
+ },
+ {
+  "first": "Theo",
+  "last": "Fleury",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Freer",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Haas",
+  "league": "NHL"
+ },
+ {
+  "first": "Kelly",
+  "last": "Kisio",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Kruse",
+  "league": "NHL"
+ },
+ {
+  "first": "Guy",
+  "last": "Larose",
+  "league": "NHL"
+ },
+ {
+  "first": "Sandy",
+  "last": "McCarthy",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Nieuwendyk",
+  "league": "NHL"
+ },
+ {
+  "first": "Michael",
+  "last": "Nylander",
+  "league": "NHL"
+ },
+ {
+  "first": "Joel",
+  "last": "Otto",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Paslawski",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Ranheim",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Reichel",
+  "league": "NHL"
+ },
+ {
+  "first": "Gary",
+  "last": "Roberts",
+  "league": "NHL"
+ },
+ {
+  "first": "Ronnie",
+  "last": "Stern",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Struch",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Sullivan",
+  "league": "NHL"
+ },
+ {
+  "first": "German",
+  "last": "Titov",
+  "league": "NHL"
+ },
+ {
+  "first": "Vesa",
+  "last": "Viitakoski",
+  "league": "NHL"
+ },
+ {
+  "first": "Wes",
+  "last": "Walz",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Ahola",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Dahl",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Dahlquist",
+  "league": "NHL"
+ },
+ {
+  "first": "Leonard",
+  "last": "Esau",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Keczmer",
+  "league": "NHL"
+ },
+ {
+  "first": "Al",
+  "last": "MacInnis",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Miller",
+  "league": "NHL"
+ },
+ {
+  "first": "Frantisek",
+  "last": "Musil",
+  "league": "NHL"
+ },
+ {
+  "first": "Lee",
+  "last": "Norwood",
+  "league": "NHL"
+ },
+ {
+  "first": "James",
+  "last": "Patrick",
+  "league": "NHL"
+ },
+ {
+  "first": "Michel",
+  "last": "Petit",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Schlegel",
+  "league": "NHL"
+ },
+ {
+  "first": "Gary",
+  "last": "Suter",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Wortman",
+  "league": "NHL"
+ },
+ {
+  "first": "Trent",
+  "last": "Yawney",
+  "league": "NHL"
+ },
+ {
+  "first": "Zarley",
+  "last": "Zalapski",
+  "league": "NHL"
+ },
+ {
+  "first": "Trevor",
+  "last": "Kidd",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Muzzatti",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Reese",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrei",
+  "last": "Trefilov",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Vernon",
+  "league": "NHL"
+ },
+ {
+  "first": "Tony",
+  "last": "Amonte",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Christian",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Cunneyworth",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Dubinsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Michel",
+  "last": "Goulet",
+  "league": "NHL"
+ },
+ {
+  "first": "Dirk",
+  "last": "Graham",
+  "league": "NHL"
+ },
+ {
+  "first": "Tony",
+  "last": "Horacek",
+  "league": "NHL"
+ },
+ {
+  "first": "Darin",
+  "last": "Kimble",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Krivokrasov",
+  "league": "NHL"
+ },
+ {
+  "first": "Jocelyn",
+  "last": "Lemieux",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Matteau",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Murphy",
+  "league": "NHL"
+ },
+ {
+  "first": "Troy",
+  "last": "Murray",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Noonan",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrick",
+  "last": "Poulin",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeremy",
+  "last": "Roenick",
+  "league": "NHL"
+ },
+ {
+  "first": "Christian",
+  "last": "Ruuttu",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Shantz",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Sutter",
+  "league": "NHL"
+ },
+ {
+  "first": "Rich",
+  "last": "Sutter",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Todd",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Ysebaert",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Chelios",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Dirk",
+  "league": "NHL"
+ },
+ {
+  "first": "Ivan",
+  "last": "Droppa",
+  "league": "NHL"
+ },
+ {
+  "first": "Frantisek",
+  "last": "Kucera",
+  "league": "NHL"
+ },
+ {
+  "first": "Bryan",
+  "last": "Marchment",
+  "league": "NHL"
+ },
+ {
+  "first": "Cam",
+  "last": "Russell",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Smith",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Smyth",
+  "league": "NHL"
+ },
+ {
+  "first": "Eric",
+  "last": "Weinrich",
+  "league": "NHL"
+ },
+ {
+  "first": "Neil",
+  "last": "Wilkinson",
+  "league": "NHL"
+ },
+ {
+  "first": "Ed",
+  "last": "Belfour",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Hackett",
+  "league": "NHL"
+ },
+ {
+  "first": "Christian",
+  "last": "Soucy",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Barr",
+  "league": "NHL"
+ },
+ {
+  "first": "Neil",
+  "last": "Brady",
+  "league": "NHL"
+ },
+ {
+  "first": "Neal",
+  "last": "Broten",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Broten",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Shane",
+  "last": "Churla",
+  "league": "NHL"
+ },
+ {
+  "first": "Russ",
+  "last": "Courtnall",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Craig",
+  "league": "NHL"
+ },
+ {
+  "first": "Ulf",
+  "last": "Dahlen",
+  "league": "NHL"
+ },
+ {
+  "first": "Pelle",
+  "last": "Eklund",
+  "league": "NHL"
+ },
+ {
+  "first": "Dean",
+  "last": "Evason",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Gagner",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Gilchrist",
+  "league": "NHL"
+ },
+ {
+  "first": "Trent",
+  "last": "Klatt",
+  "league": "NHL"
+ },
+ {
+  "first": "Alan",
+  "last": "May",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "McKenzie",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Mcphee",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Modano",
+  "league": "NHL"
+ },
+ {
+  "first": "Michael",
+  "last": "Needham",
+  "league": "NHL"
+ },
+ {
+  "first": "Derrick",
+  "last": "Smith",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Tancill",
+  "league": "NHL"
+ },
+ {
+  "first": "Jarkko",
+  "last": "Varvio",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Berry",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Cavallini",
+  "league": "NHL"
+ },
+ {
+  "first": "Derian",
+  "last": "Hatcher",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Johnson",
+  "league": "NHL"
+ },
+ {
+  "first": "Duane",
+  "last": "Joyce",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Lalor",
+  "league": "NHL"
+ },
+ {
+  "first": "Grant",
+  "last": "Ledyard",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Ludwig",
+  "league": "NHL"
+ },
+ {
+  "first": "Richard",
+  "last": "Matvichuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Tommy",
+  "last": "Sjodin",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Tinordi",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Zmolek",
+  "league": "NHL"
+ },
+ {
+  "first": "Andy",
+  "last": "Moog",
+  "league": "NHL"
+ },
+ {
+  "first": "Darcy",
+  "last": "Wakaluk",
+  "league": "NHL"
+ },
+ {
+  "first": "Micah",
+  "last": "Aivazoff",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "Burr",
+  "league": "NHL"
+ },
+ {
+  "first": "Dino",
+  "last": "Ciccarelli",
+  "league": "NHL"
+ },
+ {
+  "first": "Dallas",
+  "last": "Drake",
+  "league": "NHL"
+ },
+ {
+  "first": "Kris",
+  "last": "Draper",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Fedorov",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Johnson",
+  "league": "NHL"
+ },
+ {
+  "first": "Sheldon",
+  "last": "Kennedy",
+  "league": "NHL"
+ },
+ {
+  "first": "Vyacheslav",
+  "last": "Kozlov",
+  "league": "NHL"
+ },
+ {
+  "first": "Martin",
+  "last": "Lapointe",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Maltais",
+  "league": "NHL"
+ },
+ {
+  "first": "Darren",
+  "last": "McCarty",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Pederson",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Primeau",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Probert",
+  "league": "NHL"
+ },
+ {
+  "first": "Ray",
+  "last": "Sheppard",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Sillinger",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Taylor",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Yzerman",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Bautin",
+  "league": "NHL"
+ },
+ {
+  "first": "Terry",
+  "last": "Carkner",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Chiasson",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Coffey",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Halkidis",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Howe",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Konroyd",
+  "league": "NHL"
+ },
+ {
+  "first": "Vladimir",
+  "last": "Konstantinov",
+  "league": "NHL"
+ },
+ {
+  "first": "Gordon",
+  "last": "Kruppke",
+  "league": "NHL"
+ },
+ {
+  "first": "Nicklas",
+  "last": "Lidstrom",
+  "league": "NHL"
+ },
+ {
+  "first": "Aaron",
+  "last": "Ward",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "York",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Cheveldae",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Essensa",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Ing",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Osgood",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Arnott",
+  "league": "NHL"
+ },
+ {
+  "first": "Kelly",
+  "last": "Buchberger",
+  "league": "NHL"
+ },
+ {
+  "first": "Jozef",
+  "last": "Cierny",
+  "league": "NHL"
+ },
+ {
+  "first": "Zdeno",
+  "last": "Ciger",
+  "league": "NHL"
+ },
+ {
+  "first": "Shayne",
+  "last": "Corson",
+  "league": "NHL"
+ },
+ {
+  "first": "Louie",
+  "last": "Debrusk",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Elik",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Grieve",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexander",
+  "last": "Kerch",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "MacTavish",
+  "league": "NHL"
+ },
+ {
+  "first": "Kirk",
+  "last": "Maltby",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Marchant",
+  "league": "NHL"
+ },
+ {
+  "first": "Dean",
+  "last": "McAmmond",
+  "league": "NHL"
+ },
+ {
+  "first": "Roman",
+  "last": "Oksiuta",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Pearson",
+  "league": "NHL"
+ },
+ {
+  "first": "Shjon",
+  "last": "Podein",
+  "league": "NHL"
+ },
+ {
+  "first": "Steven",
+  "last": "Rice",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Stapleton",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Thornton",
+  "league": "NHL"
+ },
+ {
+  "first": "Vladimir",
+  "last": "Vujtek",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Weight",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "White",
+  "league": "NHL"
+ },
+ {
+  "first": "Tyler",
+  "last": "Wright",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Zavisha",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Beers",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Bennett",
+  "league": "NHL"
+ },
+ {
+  "first": "Ilya",
+  "last": "Byakin",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Chychrun",
+  "league": "NHL"
+ },
+ {
+  "first": "Ian",
+  "last": "Herbers",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Joseph",
+  "league": "NHL"
+ },
+ {
+  "first": "Igor",
+  "last": "Kravchuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Marc",
+  "last": "Laforge",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Manson",
+  "league": "NHL"
+ },
+ {
+  "first": "Gordon",
+  "last": "Mark",
+  "league": "NHL"
+ },
+ {
+  "first": "Darcy",
+  "last": "Martini",
+  "league": "NHL"
+ },
+ {
+  "first": "Boris",
+  "last": "Mironov",
+  "league": "NHL"
+ },
+ {
+  "first": "Fredrik",
+  "last": "Olausson",
+  "league": "NHL"
+ },
+ {
+  "first": "Luke",
+  "last": "Richardson",
+  "league": "NHL"
+ },
+ {
+  "first": "Geoff",
+  "last": "Smith",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Werenka",
+  "league": "NHL"
+ },
+ {
+  "first": "Fred",
+  "last": "Brathwaite",
+  "league": "NHL"
+ },
+ {
+  "first": "Wayne",
+  "last": "Cowley",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Ranford",
+  "league": "NHL"
+ },
+ {
+  "first": "Stu",
+  "last": "Barnes",
+  "league": "NHL"
+ },
+ {
+  "first": "Douglas",
+  "last": "Barrault",
+  "league": "NHL"
+ },
+ {
+  "first": "Len",
+  "last": "Barrie",
+  "league": "NHL"
+ },
+ {
+  "first": "Jesse",
+  "last": "Belanger",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Daniels",
+  "league": "NHL"
+ },
+ {
+  "first": "Evgeny",
+  "last": "Davydov",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Fitzgerald",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Foligno",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Gilhen",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Greenlaw",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Hough",
+  "league": "NHL"
+ },
+ {
+  "first": "Jody",
+  "last": "Hull",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Kudelski",
+  "league": "NHL"
+ },
+ {
+  "first": "Jamie",
+  "last": "Leach",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrick",
+  "last": "Lebeau",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Levins",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Lindsay",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrei",
+  "last": "Lomakin",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Lowry",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Mellanby",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Niedermayer",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Severyn",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Skrudland",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Andersson",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Benning",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Cirella",
+  "league": "NHL"
+ },
+ {
+  "first": "Dallas",
+  "last": "Eakins",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexander",
+  "last": "Godynyuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Hawgood",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Laus",
+  "league": "NHL"
+ },
+ {
+  "first": "Gord",
+  "last": "Murphy",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Richer",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Fitzpatrick",
+  "league": "NHL"
+ },
+ {
+  "first": "Eldon",
+  "last": "Reddick",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Vanbiesbrouck",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrew",
+  "last": "Cassels",
+  "league": "NHL"
+ },
+ {
+  "first": "Igor",
+  "last": "Chibirev",
+  "league": "NHL"
+ },
+ {
+  "first": "Yvon",
+  "last": "Corriveau",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Greig",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Harkins",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Janssens",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Kron",
+  "league": "NHL"
+ },
+ {
+  "first": "Nick",
+  "last": "Kypreos",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Petrovicky",
+  "league": "NHL"
+ },
+ {
+  "first": "Marc",
+  "last": "Potvin",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Propp",
+  "league": "NHL"
+ },
+ {
+  "first": "Geoff",
+  "last": "Sanderson",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Sandlak",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Smyth",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Storm",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Tomlak",
+  "league": "NHL"
+ },
+ {
+  "first": "Darren",
+  "last": "Turcotte",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Verbeek",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Burt",
+  "league": "NHL"
+ },
+ {
+  "first": "Edward",
+  "last": "Crowley",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Houda",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "McCrimmon",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Mcgill",
+  "league": "NHL"
+ },
+ {
+  "first": "Allen",
+  "last": "Pedersen",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Pronger",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Stevens",
+  "league": "NHL"
+ },
+ {
+  "first": "Sean",
+  "last": "Burke",
+  "league": "NHL"
+ },
+ {
+  "first": "Mario",
+  "last": "Gosselin",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Lenarduzzi",
+  "league": "NHL"
+ },
+ {
+  "first": "Frank",
+  "last": "Pietrangelo",
+  "league": "NHL"
+ },
+ {
+  "first": "Jimmy",
+  "last": "Carson",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Conacher",
+  "league": "NHL"
+ },
+ {
+  "first": "Philip",
+  "last": "Crowe",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Currie",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Donnelly",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Druce",
+  "league": "NHL"
+ },
+ {
+  "first": "Tony",
+  "last": "Granato",
+  "league": "NHL"
+ },
+ {
+  "first": "Wayne",
+  "last": "Gretzky",
+  "league": "NHL"
+ },
+ {
+  "first": "Jari",
+  "last": "Kurri",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Lang",
+  "league": "NHL"
+ },
+ {
+  "first": "Guy",
+  "last": "Leveque",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "McEachern",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "McReynolds",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Murphy",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Redmond",
+  "league": "NHL"
+ },
+ {
+  "first": "Luc",
+  "last": "Robitaille",
+  "league": "NHL"
+ },
+ {
+  "first": "Warren",
+  "last": "Rychel",
+  "league": "NHL"
+ },
+ {
+  "first": "Tomas",
+  "last": "Sandstrom",
+  "league": "NHL"
+ },
+ {
+  "first": "Gary",
+  "last": "Shuchuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Taylor",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Thomlinson",
+  "league": "NHL"
+ },
+ {
+  "first": "Dixon",
+  "last": "Ward",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Blake",
+  "league": "NHL"
+ },
+ {
+  "first": "Donald",
+  "last": "Dufresne",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Hardy",
+  "league": "NHL"
+ },
+ {
+  "first": "Justin",
+  "last": "Hocking",
+  "league": "NHL"
+ },
+ {
+  "first": "Charlie",
+  "last": "Huddy",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Jay",
+  "league": "NHL"
+ },
+ {
+  "first": "Dominic",
+  "last": "Lavoie",
+  "league": "NHL"
+ },
+ {
+  "first": "Marty",
+  "last": "McSorley",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Paek",
+  "league": "NHL"
+ },
+ {
+  "first": "Darryl",
+  "last": "Sydor",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Thompson",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Watters",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Zhitnik",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Goverde",
+  "league": "NHL"
+ },
+ {
+  "first": "Kelly",
+  "last": "Hrudey",
+  "league": "NHL"
+ },
+ {
+  "first": "Rick",
+  "last": "Knickle",
+  "league": "NHL"
+ },
+ {
+  "first": "Robb",
+  "last": "Stauber",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Bellows",
+  "league": "NHL"
+ },
+ {
+  "first": "Donald",
+  "last": "Brashear",
+  "league": "NHL"
+ },
+ {
+  "first": "Benoit",
+  "last": "Brunet",
+  "league": "NHL"
+ },
+ {
+  "first": "Guy",
+  "last": "Carbonneau",
+  "league": "NHL"
+ },
+ {
+  "first": "Vincent",
+  "last": "Damphousse",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Di Pietro",
+  "league": "NHL"
+ },
+ {
+  "first": "Gilbert",
+  "last": "Dionne",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Ferguson",
+  "league": "NHL"
+ },
+ {
+  "first": "Gerry",
+  "last": "Fleming",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Keane",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "LeClair",
+  "league": "NHL"
+ },
+ {
+  "first": "Gary",
+  "last": "Leeman",
+  "league": "NHL"
+ },
+ {
+  "first": "Kirk",
+  "last": "Muller",
+  "league": "NHL"
+ },
+ {
+  "first": "Oleg",
+  "last": "Petrov",
+  "league": "NHL"
+ },
+ {
+  "first": "Mario",
+  "last": "Roberge",
+  "league": "NHL"
+ },
+ {
+  "first": "Ed",
+  "last": "Ronan",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Savage",
+  "league": "NHL"
+ },
+ {
+  "first": "Pierre",
+  "last": "Sevigny",
+  "league": "NHL"
+ },
+ {
+  "first": "Turner",
+  "last": "Stevenson",
+  "league": "NHL"
+ },
+ {
+  "first": "Lindsay",
+  "last": "Vallis",
+  "league": "NHL"
+ },
+ {
+  "first": "Ron",
+  "last": "Wilson",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrice",
+  "last": "Brisebois",
+  "league": "NHL"
+ },
+ {
+  "first": "J.J.",
+  "last": "Daigneault",
+  "league": "NHL"
+ },
+ {
+  "first": "Eric",
+  "last": "Desjardins",
+  "league": "NHL"
+ },
+ {
+  "first": "Bryan",
+  "last": "Fogarty",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Haller",
+  "league": "NHL"
+ },
+ {
+  "first": "Lyle",
+  "last": "Odelein",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Popovic",
+  "league": "NHL"
+ },
+ {
+  "first": "Christian",
+  "last": "Proulx",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Ramage",
+  "league": "NHL"
+ },
+ {
+  "first": "Mathieu",
+  "last": "Schneider",
+  "league": "NHL"
+ },
+ {
+  "first": "Frederic",
+  "last": "Chabot",
+  "league": "NHL"
+ },
+ {
+  "first": "Les",
+  "last": "Kuntar",
+  "league": "NHL"
+ },
+ {
+  "first": "Andre",
+  "last": "Racicot",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrick",
+  "last": "Roy",
+  "league": "NHL"
+ },
+ {
+  "first": "Bobby",
+  "last": "Carpenter",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Chorske",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Dowd",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Emma",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Guerin",
+  "league": "NHL"
+ },
+ {
+  "first": "Ben",
+  "last": "Hankinson",
+  "league": "NHL"
+ },
+ {
+  "first": "Bobby",
+  "last": "Holik",
+  "league": "NHL"
+ },
+ {
+  "first": "Claude",
+  "last": "Lemieux",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "MacLean",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Mckay",
+  "league": "NHL"
+ },
+ {
+  "first": "Corey",
+  "last": "Millen",
+  "league": "NHL"
+ },
+ {
+  "first": "Bernie",
+  "last": "Nicholls",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Pellerin",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Peluso",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexander",
+  "last": "Semak",
+  "league": "NHL"
+ },
+ {
+  "first": "Valeri",
+  "last": "Zelepukin",
+  "league": "NHL"
+ },
+ {
+  "first": "Tommy",
+  "last": "Albelin",
+  "league": "NHL"
+ },
+ {
+  "first": "Ken",
+  "last": "Daneyko",
+  "league": "NHL"
+ },
+ {
+  "first": "Bruce",
+  "last": "Driver",
+  "league": "NHL"
+ },
+ {
+  "first": "Viacheslav",
+  "last": "Fetisov",
+  "league": "NHL"
+ },
+ {
+  "first": "Jaroslav",
+  "last": "Modry",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Niedermayer",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Smith",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Stevens",
+  "league": "NHL"
+ },
+ {
+  "first": "Martin",
+  "last": "Brodeur",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Sidorkiewicz",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Terreri",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Acton",
+  "league": "NHL"
+ },
+ {
+  "first": "Derek",
+  "last": "Armstrong",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Chyzowski",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Dalgarno",
+  "league": "NHL"
+ },
+ {
+  "first": "Joseph",
+  "last": "Day",
+  "league": "NHL"
+ },
+ {
+  "first": "Ray",
+  "last": "Ferraro",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrick",
+  "last": "Flatley",
+  "league": "NHL"
+ },
+ {
+  "first": "Travis",
+  "last": "Green",
+  "league": "NHL"
+ },
+ {
+  "first": "Benoit",
+  "last": "Hogue",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Junker",
+  "league": "NHL"
+ },
+ {
+  "first": "Yan",
+  "last": "Kaminsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Derek",
+  "last": "King",
+  "league": "NHL"
+ },
+ {
+  "first": "Claude",
+  "last": "Loiselle",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Maley",
+  "league": "NHL"
+ },
+ {
+  "first": "Marty",
+  "last": "Mcinnis",
+  "league": "NHL"
+ },
+ {
+  "first": "Ziggy",
+  "last": "Palffy",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Plante",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Scissons",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Simon",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Thomas",
+  "league": "NHL"
+ },
+ {
+  "first": "Pierre",
+  "last": "Turgeon",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Volek",
+  "league": "NHL"
+ },
+ {
+  "first": "Mick",
+  "last": "Vukota",
+  "league": "NHL"
+ },
+ {
+  "first": "Dean",
+  "last": "Chynoweth",
+  "league": "NHL"
+ },
+ {
+  "first": "Darius",
+  "last": "Kasparaitis",
+  "league": "NHL"
+ },
+ {
+  "first": "Uwe",
+  "last": "Krupp",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Kurvers",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Lachance",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Luongo",
+  "league": "NHL"
+ },
+ {
+  "first": "Vladimir",
+  "last": "Malakhov",
+  "league": "NHL"
+ },
+ {
+  "first": "Wayne",
+  "last": "Mcbean",
+  "league": "NHL"
+ },
+ {
+  "first": "Rich",
+  "last": "Pilon",
+  "league": "NHL"
+ },
+ {
+  "first": "Dennis",
+  "last": "Vaske",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Draper",
+  "league": "NHL"
+ },
+ {
+  "first": "Ron",
+  "last": "Hextall",
+  "league": "NHL"
+ },
+ {
+  "first": "Jamie",
+  "last": "McLennan",
+  "league": "NHL"
+ },
+ {
+  "first": "Glenn",
+  "last": "Anderson",
+  "league": "NHL"
+ },
+ {
+  "first": "Phil",
+  "last": "Bourque",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Gartner",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Gilbert",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Graves",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Hartman",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Hiller",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Hudson",
+  "league": "NHL"
+ },
+ {
+  "first": "Joey",
+  "last": "Kocur",
+  "league": "NHL"
+ },
+ {
+  "first": "Alex",
+  "last": "Kovalev",
+  "league": "NHL"
+ },
+ {
+  "first": "Daniel",
+  "last": "Lacroix",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Larmer",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Messier",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Nemchinov",
+  "league": "NHL"
+ },
+ {
+  "first": "Eddie",
+  "last": "Olczyk",
+  "league": "NHL"
+ },
+ {
+  "first": "Esa",
+  "last": "Tikkanen",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Beukeboom",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexander",
+  "last": "Karpovtsev",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Leetch",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Lidster",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Lowe",
+  "league": "NHL"
+ },
+ {
+  "first": "Joby",
+  "last": "Messier",
+  "league": "NHL"
+ },
+ {
+  "first": "Mattias",
+  "last": "Norstrom",
+  "league": "NHL"
+ },
+ {
+  "first": "Jay",
+  "last": "Wells",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Zubov",
+  "league": "NHL"
+ },
+ {
+  "first": "Glenn",
+  "last": "Healy",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Richter",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Archibald",
+  "league": "NHL"
+ },
+ {
+  "first": "Claude",
+  "last": "Boivin",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Burakowsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexandre",
+  "last": "Daigle",
+  "league": "NHL"
+ },
+ {
+  "first": "Pavol",
+  "last": "Demitra",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Huard",
+  "league": "NHL"
+ },
+ {
+  "first": "Jarmo",
+  "last": "Kekalainen",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Lamb",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Lauer",
+  "league": "NHL"
+ },
+ {
+  "first": "Darcy",
+  "last": "Loewen",
+  "league": "NHL"
+ },
+ {
+  "first": "Troy",
+  "last": "Mallette",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrew",
+  "last": "Mcbain",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Mcllwain",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Pankewicz",
+  "league": "NHL"
+ },
+ {
+  "first": "Chad",
+  "last": "Penney",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Quinn",
+  "league": "NHL"
+ },
+ {
+  "first": "Herb",
+  "last": "Raglan",
+  "league": "NHL"
+ },
+ {
+  "first": "Vladimir",
+  "last": "Ruzicka",
+  "league": "NHL"
+ },
+ {
+  "first": "Andy",
+  "last": "Schneider",
+  "league": "NHL"
+ },
+ {
+  "first": "Graeme",
+  "last": "Townshend",
+  "league": "NHL"
+ },
+ {
+  "first": "Sylvain",
+  "last": "Turgeon",
+  "league": "NHL"
+ },
+ {
+  "first": "Dennis",
+  "last": "Vial",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Yashin",
+  "league": "NHL"
+ },
+ {
+  "first": "Gord",
+  "last": "Dineen",
+  "league": "NHL"
+ },
+ {
+  "first": "Dmitri",
+  "last": "Filimonov",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Glynn",
+  "league": "NHL"
+ },
+ {
+  "first": "Radek",
+  "last": "Hamr",
+  "league": "NHL"
+ },
+ {
+  "first": "Kerry",
+  "last": "Huffman",
+  "league": "NHL"
+ },
+ {
+  "first": "Hank",
+  "last": "Lammens",
+  "league": "NHL"
+ },
+ {
+  "first": "Francois",
+  "last": "Leroux",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Macdonald",
+  "league": "NHL"
+ },
+ {
+  "first": "Norm",
+  "last": "MacIver",
+  "league": "NHL"
+ },
+ {
+  "first": "Derek",
+  "last": "Mayer",
+  "league": "NHL"
+ },
+ {
+  "first": "Kent",
+  "last": "Paynter",
+  "league": "NHL"
+ },
+ {
+  "first": "Darren",
+  "last": "Rumble",
+  "league": "NHL"
+ },
+ {
+  "first": "Brad",
+  "last": "Shaw",
+  "league": "NHL"
+ },
+ {
+  "first": "Daniel",
+  "last": "Berthiaume",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Billington",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Laforest",
+  "league": "NHL"
+ },
+ {
+  "first": "Darrin",
+  "last": "Madeley",
+  "league": "NHL"
+ },
+ {
+  "first": "Josef",
+  "last": "Beranek",
+  "league": "NHL"
+ },
+ {
+  "first": "Rod",
+  "last": "Brind'Amour",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Viacheslav",
+  "last": "Butsayev",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Conroy",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Cummins",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "DiMaio",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Dineen",
+  "league": "NHL"
+ },
+ {
+  "first": "Andre",
+  "last": "Faust",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Fedyk",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Hlushko",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Kordic",
+  "league": "NHL"
+ },
+ {
+  "first": "Eric",
+  "last": "Lindros",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Recchi",
+  "league": "NHL"
+ },
+ {
+  "first": "Mikael",
+  "last": "Renberg",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Tippett",
+  "league": "NHL"
+ },
+ {
+  "first": "Claude",
+  "last": "Vilgrain",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Winnes",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Bowen",
+  "league": "NHL"
+ },
+ {
+  "first": "Aris",
+  "last": "Brimanis",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Finley",
+  "league": "NHL"
+ },
+ {
+  "first": "Garry",
+  "last": "Galley",
+  "league": "NHL"
+ },
+ {
+  "first": "Milos",
+  "last": "Holan",
+  "league": "NHL"
+ },
+ {
+  "first": "Stewart",
+  "last": "Malgunas",
+  "league": "NHL"
+ },
+ {
+  "first": "Ryan",
+  "last": "McGill",
+  "league": "NHL"
+ },
+ {
+  "first": "Yves",
+  "last": "Racine",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Wilkie",
+  "league": "NHL"
+ },
+ {
+  "first": "Dmitry",
+  "last": "Yushkevich",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Zettler",
+  "league": "NHL"
+ },
+ {
+  "first": "Dominic",
+  "last": "Roussel",
+  "league": "NHL"
+ },
+ {
+  "first": "Tommy",
+  "last": "Soderstrom",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Larry",
+  "last": "Depalma",
+  "league": "NHL"
+ },
+ {
+  "first": "Justin",
+  "last": "Duberman",
+  "league": "NHL"
+ },
+ {
+  "first": "Ron",
+  "last": "Francis",
+  "league": "NHL"
+ },
+ {
+  "first": "Jaromir",
+  "last": "Jagr",
+  "league": "NHL"
+ },
+ {
+  "first": "Ladislav",
+  "last": "Karabin",
+  "league": "NHL"
+ },
+ {
+  "first": "Mario",
+  "last": "Lemieux",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Mullen",
+  "league": "NHL"
+ },
+ {
+  "first": "Markus",
+  "last": "Naslund",
+  "league": "NHL"
+ },
+ {
+  "first": "Ed",
+  "last": "Patterson",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Stevens",
+  "league": "NHL"
+ },
+ {
+  "first": "Martin",
+  "last": "Straka",
+  "league": "NHL"
+ },
+ {
+  "first": "Rick",
+  "last": "Tocchet",
+  "league": "NHL"
+ },
+ {
+  "first": "Bryan",
+  "last": "Trottier",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Andrusak",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Grant",
+  "last": "Jennings",
+  "league": "NHL"
+ },
+ {
+  "first": "Larry",
+  "last": "Murphy",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Neaton",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Ramsey",
+  "league": "NHL"
+ },
+ {
+  "first": "Kjell",
+  "last": "Samuelsson",
+  "league": "NHL"
+ },
+ {
+  "first": "Ulf",
+  "last": "Samuelsson",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Taglianetti",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Tamer",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Barrasso",
+  "league": "NHL"
+ },
+ {
+  "first": "Robert",
+  "last": "Dopson",
+  "league": "NHL"
+ },
+ {
+  "first": "Roberto",
+  "last": "Romano",
+  "league": "NHL"
+ },
+ {
+  "first": "Ken",
+  "last": "Wregget",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Bassen",
+  "league": "NHL"
+ },
+ {
+  "first": "Rene",
+  "last": "Corbet",
+  "league": "NHL"
+ },
+ {
+  "first": "Iain",
+  "last": "Fraser",
+  "league": "NHL"
+ },
+ {
+  "first": "Martin",
+  "last": "Gelinas",
+  "league": "NHL"
+ },
+ {
+  "first": "Valeri",
+  "last": "Kamensky",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrei",
+  "last": "Kovalenko",
+  "league": "NHL"
+ },
+ {
+  "first": "Claude",
+  "last": "Lapointe",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Lindberg",
+  "league": "NHL"
+ },
+ {
+  "first": "Paul",
+  "last": "Macdermid",
+  "league": "NHL"
+ },
+ {
+  "first": "Owen",
+  "last": "Nolan",
+  "league": "NHL"
+ },
+ {
+  "first": "Dwayne",
+  "last": "Norris",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Ricci",
+  "league": "NHL"
+ },
+ {
+  "first": "Martin",
+  "last": "Rucinsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Sakic",
+  "league": "NHL"
+ },
+ {
+  "first": "Reginald",
+  "last": "Savage",
+  "league": "NHL"
+ },
+ {
+  "first": "Paxton",
+  "last": "Schulte",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Simon",
+  "league": "NHL"
+ },
+ {
+  "first": "Mats",
+  "last": "Sundin",
+  "league": "NHL"
+ },
+ {
+  "first": "Ron",
+  "last": "Sutter",
+  "league": "NHL"
+ },
+ {
+  "first": "Tony",
+  "last": "Twist",
+  "league": "NHL"
+ },
+ {
+  "first": "Ed",
+  "last": "Ward",
+  "league": "NHL"
+ },
+ {
+  "first": "Scott",
+  "last": "Young",
+  "league": "NHL"
+ },
+ {
+  "first": "Garth",
+  "last": "Butcher",
+  "league": "NHL"
+ },
+ {
+  "first": "Alain",
+  "last": "Cote",
+  "league": "NHL"
+ },
+ {
+  "first": "Steven",
+  "last": "Finn",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Foote",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Gusarov",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Hurlbut",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Karpa",
+  "league": "NHL"
+ },
+ {
+  "first": "Jon",
+  "last": "Klemm",
+  "league": "NHL"
+ },
+ {
+  "first": "Curtis",
+  "last": "Leschyshyn",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Mckee",
+  "league": "NHL"
+ },
+ {
+  "first": "Aaron",
+  "last": "Miller",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Wolanin",
+  "league": "NHL"
+ },
+ {
+  "first": "Jacques",
+  "last": "Cloutier",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Fiset",
+  "league": "NHL"
+ },
+ {
+  "first": "Garth",
+  "last": "Snow",
+  "league": "NHL"
+ },
+ {
+  "first": "Jocelyn",
+  "last": "Thibault",
+  "league": "NHL"
+ },
+ {
+  "first": "Jamie",
+  "last": "Baker",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Bruce",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Capuano",
+  "league": "NHL"
+ },
+ {
+  "first": "Dale",
+  "last": "Craigwell",
+  "league": "NHL"
+ },
+ {
+  "first": "Gaetan",
+  "last": "Duchesne",
+  "league": "NHL"
+ },
+ {
+  "first": "Gary",
+  "last": "Emmons",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Errey",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Falloon",
+  "league": "NHL"
+ },
+ {
+  "first": "Johan",
+  "last": "Garpenlov",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Gaudreau",
+  "league": "NHL"
+ },
+ {
+  "first": "Igor",
+  "last": "Larionov",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergei",
+  "last": "Makarov",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Mclean",
+  "league": "NHL"
+ },
+ {
+  "first": "Kip",
+  "last": "Miller",
+  "league": "NHL"
+ },
+ {
+  "first": "Andrei",
+  "last": "Nazarov",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Odgers",
+  "league": "NHL"
+ },
+ {
+  "first": "Jaroslav",
+  "last": "Otevrel",
+  "league": "NHL"
+ },
+ {
+  "first": "Ray",
+  "last": "Whitney",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "Cronin",
+  "league": "NHL"
+ },
+ {
+  "first": "Vlastimil",
+  "last": "Kroupa",
+  "league": "NHL"
+ },
+ {
+  "first": "Jayson",
+  "last": "More",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Norton",
+  "league": "NHL"
+ },
+ {
+  "first": "Sandis",
+  "last": "Ozolinsh",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Pederson",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Rathje",
+  "league": "NHL"
+ },
+ {
+  "first": "Michal",
+  "last": "Sykora",
+  "league": "NHL"
+ },
+ {
+  "first": "Arturs",
+  "last": "Irbe",
+  "league": "NHL"
+ },
+ {
+  "first": "Jimmy",
+  "last": "Waite",
+  "league": "NHL"
+ },
+ {
+  "first": "Philippe",
+  "last": "Bozon",
+  "league": "NHL"
+ },
+ {
+  "first": "Kelly",
+  "last": "Chase",
+  "league": "NHL"
+ },
+ {
+  "first": "Denis",
+  "last": "Chasse",
+  "league": "NHL"
+ },
+ {
+  "first": "Denny",
+  "last": "Felsner",
+  "league": "NHL"
+ },
+ {
+  "first": "Tony",
+  "last": "Hrkac",
+  "league": "NHL"
+ },
+ {
+  "first": "Brett",
+  "last": "Hull",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Janney",
+  "league": "NHL"
+ },
+ {
+  "first": "Vitali",
+  "last": "Karamnov",
+  "league": "NHL"
+ },
+ {
+  "first": "Igor",
+  "last": "Korolev",
+  "league": "NHL"
+ },
+ {
+  "first": "Nathan",
+  "last": "LaFayette",
+  "league": "NHL"
+ },
+ {
+  "first": "Ian",
+  "last": "Laperriere",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Mackey",
+  "league": "NHL"
+ },
+ {
+  "first": "Basil",
+  "last": "Mcrae",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Miehm",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Miller",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Montgomery",
+  "league": "NHL"
+ },
+ {
+  "first": "Petr",
+  "last": "Nedved",
+  "league": "NHL"
+ },
+ {
+  "first": "Vitali",
+  "last": "Prokhorov",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Roberts",
+  "league": "NHL"
+ },
+ {
+  "first": "Brendan",
+  "last": "Shanahan",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Stastny",
+  "league": "NHL"
+ },
+ {
+  "first": "Murray",
+  "last": "Baron",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Batters",
+  "league": "NHL"
+ },
+ {
+  "first": "Jeff",
+  "last": "Brown",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Crossman",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Duchesne",
+  "league": "NHL"
+ },
+ {
+  "first": "Bret",
+  "last": "Hedican",
+  "league": "NHL"
+ },
+ {
+  "first": "Terry",
+  "last": "Hollinger",
+  "league": "NHL"
+ },
+ {
+  "first": "Phil",
+  "last": "Housley",
+  "league": "NHL"
+ },
+ {
+  "first": "Daniel",
+  "last": "Laperriere",
+  "league": "NHL"
+ },
+ {
+  "first": "Tom",
+  "last": "Tilley",
+  "league": "NHL"
+ },
+ {
+  "first": "Rick",
+  "last": "Zombo",
+  "league": "NHL"
+ },
+ {
+  "first": "Jim",
+  "last": "Hrivnak",
+  "league": "NHL"
+ },
+ {
+  "first": "Curtis",
+  "last": "Joseph",
+  "league": "NHL"
+ },
+ {
+  "first": "Mikael",
+  "last": "Andersson",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Bergland",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Bradley",
+  "league": "NHL"
+ },
+ {
+  "first": "Marc",
+  "last": "Bureau",
+  "league": "NHL"
+ },
+ {
+  "first": "Danton",
+  "last": "Cole",
+  "league": "NHL"
+ },
+ {
+  "first": "Adam",
+  "last": "Creighton",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Elynuik",
+  "league": "NHL"
+ },
+ {
+  "first": "Gerard",
+  "last": "Gallant",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Gratton",
+  "league": "NHL"
+ },
+ {
+  "first": "Brent",
+  "last": "Gretzky",
+  "league": "NHL"
+ },
+ {
+  "first": "Petr",
+  "last": "Klima",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Lafreniere",
+  "league": "NHL"
+ },
+ {
+  "first": "William",
+  "last": "Mcdougall",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Ruff",
+  "league": "NHL"
+ },
+ {
+  "first": "Denis",
+  "last": "Savard",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Tucker",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Zamuner",
+  "league": "NHL"
+ },
+ {
+  "first": "Marc",
+  "last": "Bergevin",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "Chambers",
+  "league": "NHL"
+ },
+ {
+  "first": "Eric",
+  "last": "Charron",
+  "league": "NHL"
+ },
+ {
+  "first": "Enrico",
+  "last": "Ciccone",
+  "league": "NHL"
+ },
+ {
+  "first": "Cory",
+  "last": "Cross",
+  "league": "NHL"
+ },
+ {
+  "first": "Roman",
+  "last": "Hamrlik",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Lipuma",
+  "league": "NHL"
+ },
+ {
+  "first": "Rudy",
+  "last": "Poeschek",
+  "league": "NHL"
+ },
+ {
+  "first": "Joe",
+  "last": "Reekie",
+  "league": "NHL"
+ },
+ {
+  "first": "Normand",
+  "last": "Rochefort",
+  "league": "NHL"
+ },
+ {
+  "first": "Jean Claude",
+  "last": "Bergeron",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Jablonski",
+  "league": "NHL"
+ },
+ {
+  "first": "Daren",
+  "last": "Puppa",
+  "league": "NHL"
+ },
+ {
+  "first": "Wendell",
+  "last": "Young",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Andreychuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Patrik",
+  "last": "Augusta",
+  "league": "NHL"
+ },
+ {
+  "first": "Ken",
+  "last": "Baumgartner",
+  "league": "NHL"
+ },
+ {
+  "first": "Bill",
+  "last": "Berg",
+  "league": "NHL"
+ },
+ {
+  "first": "Nikolai",
+  "last": "Borschevsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Wendel",
+  "last": "Clark",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Cullen",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Eastwood",
+  "league": "NHL"
+ },
+ {
+  "first": "Doug",
+  "last": "Gilmour",
+  "league": "NHL"
+ },
+ {
+  "first": "Christopher",
+  "last": "Govedaris",
+  "league": "NHL"
+ },
+ {
+  "first": "Darby",
+  "last": "Hendrickson",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Krushelnyski",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Kudashov",
+  "league": "NHL"
+ },
+ {
+  "first": "Eric",
+  "last": "Lacroix",
+  "league": "NHL"
+ },
+ {
+  "first": "Kent",
+  "last": "Manderville",
+  "league": "NHL"
+ },
+ {
+  "first": "Ken",
+  "last": "Mcrae",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Osborne",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Pearson",
+  "league": "NHL"
+ },
+ {
+  "first": "Yanic",
+  "last": "Perreault",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Sacco",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Zezel",
+  "league": "NHL"
+ },
+ {
+  "first": "Drake",
+  "last": "Berehowsky",
+  "league": "NHL"
+ },
+ {
+  "first": "Frank",
+  "last": "Bialowas",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Ellett",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Gill",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Harlock",
+  "league": "NHL"
+ },
+ {
+  "first": "Sylvain",
+  "last": "Lefebvre",
+  "league": "NHL"
+ },
+ {
+  "first": "Jamie",
+  "last": "Macoun",
+  "league": "NHL"
+ },
+ {
+  "first": "Matt",
+  "last": "Martin",
+  "league": "NHL"
+ },
+ {
+  "first": "Dmitri",
+  "last": "Mironov",
+  "league": "NHL"
+ },
+ {
+  "first": "Bob",
+  "last": "Rouse",
+  "league": "NHL"
+ },
+ {
+  "first": "Chris",
+  "last": "Snell",
+  "league": "NHL"
+ },
+ {
+  "first": "Felix",
+  "last": "Potvin",
+  "league": "NHL"
+ },
+ {
+  "first": "Damian",
+  "last": "Rhodes",
+  "league": "NHL"
+ },
+ {
+  "first": "Greg",
+  "last": "Adams",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "Antoski",
+  "league": "NHL"
+ },
+ {
+  "first": "Pavel",
+  "last": "Bure",
+  "league": "NHL"
+ },
+ {
+  "first": "Jose",
+  "last": "Charbonneau",
+  "league": "NHL"
+ },
+ {
+  "first": "Geoff",
+  "last": "Courtnall",
+  "league": "NHL"
+ },
+ {
+  "first": "Murray",
+  "last": "Craven",
+  "league": "NHL"
+ },
+ {
+  "first": "Neil",
+  "last": "Eisenhut",
+  "league": "NHL"
+ },
+ {
+  "first": "Tim",
+  "last": "Hunter",
+  "league": "NHL"
+ },
+ {
+  "first": "Dane",
+  "last": "Jackson",
+  "league": "NHL"
+ },
+ {
+  "first": "Dan",
+  "last": "Kesa",
+  "league": "NHL"
+ },
+ {
+  "first": "Trevor",
+  "last": "Linden",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "McIntyre",
+  "league": "NHL"
+ },
+ {
+  "first": "Sergio",
+  "last": "Momesso",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Morin",
+  "league": "NHL"
+ },
+ {
+  "first": "Gino",
+  "last": "Odjick",
+  "league": "NHL"
+ },
+ {
+  "first": "Michael",
+  "last": "Peca",
+  "league": "NHL"
+ },
+ {
+  "first": "Cliff",
+  "last": "Ronning",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Babych",
+  "league": "NHL"
+ },
+ {
+  "first": "Gerald",
+  "last": "Diduck",
+  "league": "NHL"
+ },
+ {
+  "first": "Jyrki",
+  "last": "Lumme",
+  "league": "NHL"
+ },
+ {
+  "first": "Dana",
+  "last": "Murzyn",
+  "league": "NHL"
+ },
+ {
+  "first": "Jevgeni",
+  "last": "Namestnikov",
+  "league": "NHL"
+ },
+ {
+  "first": "Adrian",
+  "last": "Plavsic",
+  "league": "NHL"
+ },
+ {
+  "first": "Jiri",
+  "last": "Slegr",
+  "league": "NHL"
+ },
+ {
+  "first": "Kirk",
+  "last": "McLean",
+  "league": "NHL"
+ },
+ {
+  "first": "Kay",
+  "last": "Whitmore",
+  "league": "NHL"
+ },
+ {
+  "first": "Luciano",
+  "last": "Borsato",
+  "league": "NHL"
+ },
+ {
+  "first": "Andy",
+  "last": "Brickley",
+  "league": "NHL"
+ },
+ {
+  "first": "Tie",
+  "last": "Domi",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Eagles",
+  "league": "NHL"
+ },
+ {
+  "first": "Nelson",
+  "last": "Emerson",
+  "league": "NHL"
+ },
+ {
+  "first": "Bryan",
+  "last": "Erickson",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Fisher",
+  "league": "NHL"
+ },
+ {
+  "first": "Michal",
+  "last": "Grosek",
+  "league": "NHL"
+ },
+ {
+  "first": "Kris",
+  "last": "King",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Leblanc",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "McClelland",
+  "league": "NHL"
+ },
+ {
+  "first": "Rob",
+  "last": "Murray",
+  "league": "NHL"
+ },
+ {
+  "first": "Russ",
+  "last": "Romaniuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Teemu",
+  "last": "Selanne",
+  "league": "NHL"
+ },
+ {
+  "first": "Darrin",
+  "last": "Shannon",
+  "league": "NHL"
+ },
+ {
+  "first": "Thomas",
+  "last": "Steen",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Tkachuk",
+  "league": "NHL"
+ },
+ {
+  "first": "David",
+  "last": "Tomlinson",
+  "league": "NHL"
+ },
+ {
+  "first": "Harije",
+  "last": "Vitolinish",
+  "league": "NHL"
+ },
+ {
+  "first": "Alexei",
+  "last": "Zhamnov",
+  "league": "NHL"
+ },
+ {
+  "first": "Arto",
+  "last": "Blomsten",
+  "league": "NHL"
+ },
+ {
+  "first": "Dean",
+  "last": "Kennedy",
+  "league": "NHL"
+ },
+ {
+  "first": "Oleg",
+  "last": "Mikulchik",
+  "league": "NHL"
+ },
+ {
+  "first": "Teppo",
+  "last": "Numminen",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Quintal",
+  "league": "NHL"
+ },
+ {
+  "first": "Darryl",
+  "last": "Shannon",
+  "league": "NHL"
+ },
+ {
+  "first": "Igor",
+  "last": "Ulanov",
+  "league": "NHL"
+ },
+ {
+  "first": "Mark",
+  "last": "Visheau",
+  "league": "NHL"
+ },
+ {
+  "first": "Stephane",
+  "last": "Beauregard",
+  "league": "NHL"
+ },
+ {
+  "first": "Michael",
+  "last": "O'Neill",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Allison",
+  "league": "NHL"
+ },
+ {
+  "first": "Craig",
+  "last": "Berube",
+  "league": "NHL"
+ },
+ {
+  "first": "Peter",
+  "last": "Bondra",
+  "league": "NHL"
+ },
+ {
+  "first": "Randy",
+  "last": "Burridge",
+  "league": "NHL"
+ },
+ {
+  "first": "Dale",
+  "last": "Hunter",
+  "league": "NHL"
+ },
+ {
+  "first": "Keith",
+  "last": "Jones",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Kaminski",
+  "league": "NHL"
+ },
+ {
+  "first": "Dmitri",
+  "last": "Khristich",
+  "league": "NHL"
+ },
+ {
+  "first": "Steve",
+  "last": "Konowalchuk",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Krygier",
+  "league": "NHL"
+ },
+ {
+  "first": "Kelly",
+  "last": "Miller",
+  "league": "NHL"
+ },
+ {
+  "first": "Pat",
+  "last": "Peake",
+  "league": "NHL"
+ },
+ {
+  "first": "Michal",
+  "last": "Pivonka",
+  "league": "NHL"
+ },
+ {
+  "first": "Dave",
+  "last": "Poulin",
+  "league": "NHL"
+ },
+ {
+  "first": "Mike",
+  "last": "Ridley",
+  "league": "NHL"
+ },
+ {
+  "first": "Shawn",
+  "last": "Anderson",
+  "league": "NHL"
+ },
+ {
+  "first": "Sylvain",
+  "last": "Cote",
+  "league": "NHL"
+ },
+ {
+  "first": "Brian",
+  "last": "Curran",
+  "league": "NHL"
+ },
+ {
+  "first": "Kevin",
+  "last": "Hatcher",
+  "league": "NHL"
+ },
+ {
+  "first": "Calle",
+  "last": "Johansson",
+  "league": "NHL"
+ },
+ {
+  "first": "Todd",
+  "last": "Nelson",
+  "league": "NHL"
+ },
+ {
+  "first": "John",
+  "last": "Slaney",
+  "league": "NHL"
+ },
+ {
+  "first": "Jason",
+  "last": "Woolley",
+  "league": "NHL"
+ },
+ {
+  "first": "Don",
+  "last": "Beaupre",
+  "league": "NHL"
+ },
+ {
+  "first": "Byron",
+  "last": "Dafoe",
+  "league": "NHL"
+ },
+ {
+  "first": "Olie",
+  "last": "Kolzig",
+  "league": "NHL"
+ },
+ {
+  "first": "Rick",
+  "last": "Tabaracci",
+  "league": "NHL"
+ }
+]

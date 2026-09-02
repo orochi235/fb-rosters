@@ -4,3 +4,8 @@ node_modules/
 npm-debug.log*
 *.tgz
 .DS_Store
+
+lahman.sqlite
+research/lahman.sqlite
+research/nhl_raw/
+research/nhl_teams.txt

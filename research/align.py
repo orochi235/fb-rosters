@@ -1,5 +1,7 @@
-import json, sqlite3, sys, unicodedata
+import os, json, sqlite3, sys, unicodedata
 from collections import Counter
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def deacc(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
@@ -15,7 +17,7 @@ def lev(a, b, cap=3):
         prev = cur
     return prev[-1]
 
-universe = json.load(open('rosters-1994.json'))
+universe = json.load(open('artifacts/rosters-1994.json'))
 real_last = sorted({p['last'] for p in universe})
 real_first = Counter(p['first'] for p in universe)
 
@@ -32,7 +34,7 @@ def align(surnames, label):
         if k % 100 == 0: print(f"  {label} {k}/{len(surnames)}", file=sys.stderr)
     return hist, results
 
-fake = [l.strip().split(None, 1) for l in open('/Users/mike/src/fb-rosters/names.txt') if l.strip()]
+fake = [l.strip().split(None, 1) for l in open('../names.txt') if l.strip()]
 fake_first = [p[0] for p in fake]
 fake_last  = [p[1] for p in fake]
 
@@ -61,6 +63,6 @@ print(f"\ndistance-1 unambiguous: {len(uniq1)}   ambiguous: {len(amb1)}")
 fn_hit = sum(1 for f in fake_first if f in real_first)
 print(f"first names present verbatim in the real universe: {fn_hit}/700 ({fn_hit/700*100:.0f}%)")
 
-json.dump(results, open('alignments.json','w'), indent=1)
+json.dump(results, open('artifacts/alignments.json','w'), indent=1)
 print("\nsample unambiguous distance-1 alignments:")
 for r in uniq1[:20]: print(f"  {r['fake']:<16} <- {r['cands'][0]}")

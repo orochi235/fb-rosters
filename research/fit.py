@@ -1,7 +1,9 @@
 import json
 from collections import Counter
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-res = [r for r in json.load(open('alignments.json')) if r['dist']==1 and r['n']==1]
+res = [r for r in json.load(open('artifacts/alignments.json')) if r['dist']==1 and r['n']==1]
 
 def edit_of(a, b):
     """classify the single edit taking real b -> fake a"""
@@ -43,4 +45,4 @@ cc = sum(v for (f,t),v in subs.items() if f not in vowels and t not in vowels)
 mix = sum(subs.values()) - vv - cc
 print(f"\nvowel->vowel {vv}  consonant->consonant {cc}  crossing {mix}")
 json.dump({"subs": {f"{f}>{t}": v for (f,t),v in subs.items()},
-           "kinds": dict(kinds), "positions": dict(pos)}, open('model.json','w'), indent=1)
+           "kinds": dict(kinds), "positions": dict(pos)}, open('artifacts/model.json','w'), indent=1)

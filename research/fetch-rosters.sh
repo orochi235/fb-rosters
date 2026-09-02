@@ -13,4 +13,4 @@ i=0; for t in $(cat nhl_teams.txt); do
   i=$((i+1)); echo "$i/26 $t"
   curl -s --max-time 25 -o "nhl_raw/$t.json" "https://api-web.nhle.com/v1/roster/$t/19931994"
 done
-echo "now run: python3 build-universe.py"
+python3 build-universe.py
